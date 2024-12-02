@@ -1,36 +1,34 @@
 import json
 
-# Read the input JSON file
-with open("input.json", "r", encoding="utf-8") as f:
-    data = json.load(f)
 
-# Create a dictionary to store unique questions
-unique_questions = {}
-new_questions = []
-counter = 1
+def fix_question_ids(input_file, output_file):
+    # Read the JSON file
+    with open(input_file, "r", encoding="utf-8") as f:
+        data = json.load(f)
 
-# Process each question
-for question in data:
-    question_text = question["question"]
+    # Get the questions array
+    questions = data["questions"]
 
-    # If we haven't seen this question before, add it
-    if question_text not in unique_questions:
-        unique_questions[question_text] = True
-        new_questions.append(
-            {
-                "question_id": counter,
-                "question": question_text,
-                "correct_answer": question["correct_answer"],
-            }
-        )
-        counter += 1
+    # Sort questions by their current question_id to maintain relative order
+    questions.sort(key=lambda x: x["question_id"])
 
-# Create the final output structure
-output = {"questions": new_questions}
+    # Update question_ids to be sequential starting from 1
+    for idx, question in enumerate(questions, 1):
+        question["question_id"] = idx
 
-# Write to output file with proper Japanese character encoding
-with open("karimen.json", "w", encoding="utf-8") as f:
-    json.dump(output, f, ensure_ascii=False, indent=2)
+    # Create the output JSON with the fixed question_ids
+    output_data = {"questions": questions}
 
-print(f"Processed {len(data)} original questions")
-print(f"Found {len(new_questions)} unique questions")
+    # Write the updated JSON to a new file
+    with open(output_file, "w", encoding="utf-8") as f:
+        json.dump(output_data, f, ensure_ascii=False, indent=2)
+
+    print(f"Successfully processed {len(questions)} questions.")
+    print(f"Output written to: {output_file}")
+
+
+# Example usage
+if __name__ == "__main__":
+    input_file = "input.json"
+    output_file = "karimen.json"
+    fix_question_ids(input_file, output_file)

@@ -30,4 +30,4 @@ def convert_json_to_csv(json_file, csv_file):
 
 
 # Example usage
-convert_json_to_csv("karimen.json", "output.csv")
+convert_json_to_csv("input.json", "output.csv")
