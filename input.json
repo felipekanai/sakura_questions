@@ -1056,177 +1056,177 @@
       "correct_answer": true
     },
     {
-      "question_id": 213,
+      "question_id": 212,
       "question": "横断歩道や自転車横断帯に近づいた時に、歩行者や自転車が横断している時は、一時停止しなければならないが、歩行者や自転車が横断しようとしている時は徐行すればよい。",
       "correct_answer": false
     },
     {
-      "question_id": 214,
+      "question_id": 213,
       "question": "交差点に入ろうとしている時に緊急自動車が近づいてきた時は、直ちに交差点で一時停止し、緊急自動車に進路をゆずなければならない。",
       "correct_answer": false
     },
     {
-      "question_id": 215,
+      "question_id": 214,
       "question": "進路の前方に障害物がある時は、あらかじめ一時停止か減速して、反対方向からの車に道をゆずらなければならない。",
       "correct_answer": true
     },
     {
-      "question_id": 216,
+      "question_id": 215,
       "question": "内輪差とは、ハンドルを左に切ったときの「ハンドルのあそび」のことである。",
       "correct_answer": false
     },
     {
-      "question_id": 217,
+      "question_id": 216,
       "question": "横断歩道のない交差点や交差点近くを通行中、歩行者が横断を始めたので徐行などして、先に歩行者を通行させた。",
       "correct_answer": true
     },
     {
-      "question_id": 218,
+      "question_id": 217,
       "question": "横断歩道や自転車横断帯と、その手前で停止している車がある時は、そのそばを通って前方に出る前に安全確認をして減速しながら通行しなければならない。",
       "correct_answer": false
     },
     {
-      "question_id": 219,
+      "question_id": 218,
       "question": "通学通園バスが止まっていて、園児などが乗り降りをしている車の側方を通って前方に出る時に、十分な安全間隔が取れたが徐行して安全を確かめながら通行した。",
       "correct_answer": true
     },
     {
-      "question_id": 220,
+      "question_id": 219,
       "question": "道路の左前方に道路工事をしている場所がある時は、対向車に自分の存在を知らせる為に、できるだけ早く進路変更をして道路の右側に出たほうがよい。",
       "correct_answer": false
     },
     {
-      "question_id": 221,
+      "question_id": 220,
       "question": "雨に濡れている路面では、乾燥した路面の場合と比べて停止距離は2倍程度に伸びることがある。",
       "correct_answer": true
     },
     {
-      "question_id": 222,
+      "question_id": 221,
       "question": "普通免許や準中型免許を受けて1年を経過していない者は、このマーク（初心者マーク）を車の前と後の定められた位置に付けて運転しなければならない。",
       "correct_answer": true
     },
     {
-      "question_id": 223,
+      "question_id": 222,
       "question": "停止距離とは、空走距離と制動距離を合わせたものである。",
       "correct_answer": true
     },
     {
-      "question_id": 224,
+      "question_id": 223,
       "question": "雨に濡れた道路を走る場合や重い荷物を積んでいる場合は、制動距離は短くなる。",
       "correct_answer": false
     },
     {
-      "question_id": 225,
+      "question_id": 224,
       "question": "踏切を通過する時は、信号機があれば信号に従って通行する事ができるが、その場合には徐行して通行しなければならない。",
       "correct_answer": false
     },
     {
-      "question_id": 226,
+      "question_id": 225,
       "question": "標識や標示で最高速度が指定されていない一般道路の普通乗用自動車の法定最高速度は、60キロメートル毎時であるが、普通貨物自動車の法定最高速度は50キロメートル毎時である。",
       "correct_answer": false
     },
     {
-      "question_id": 227,
+      "question_id": 226,
       "question": "交差する道路が優先道路である時や、その道幅が明らかに広い時は、徐行するとともに、交差道路を通行する車や路面電車の進行を妨げてはならない。",
       "correct_answer": true
     },
     {
-      "question_id": 228,
+      "question_id": 227,
       "question": "時速60キロメートルで走行している普通自動車の路面が乾燥している場合の停止距離は、約22メートルである。",
       "correct_answer": false
     },
     {
-      "question_id": 229,
+      "question_id": 228,
       "question": "自転車横断帯とその手前30メートル以内の場所は、自動車や原動機付自転車を追い越したり、追い抜いたりしてはならない。",
       "correct_answer": true
     },
     {
-      "question_id": 231,
+      "question_id": 229,
       "question": "交通整理の行われていない道幅が同じような道路の交差点では、路面電車や左方からくる車の進行を妨げてはならない。",
       "correct_answer": true
     },
     {
-      "question_id": 232,
+      "question_id": 230,
       "question": "踏切内では、落輪しないように歩行者や自転車に注意して、やや中央よりを通過するのがよい。",
       "correct_answer": true
     },
     {
-      "question_id": 233,
+      "question_id": 231,
       "question": "自動車に乗ってからドアを閉める時は、途中で止めないで力を入れて一気に閉めるのがよい。",
       "correct_answer": false
     },
     {
-      "question_id": 234,
+      "question_id": 232,
       "question": "白や黄の杖を持った人や、通行に支障のある高齢者が通行している場合には、その通行を妨げないように一時停止するか徐行する。",
       "correct_answer": true
     },
     {
-      "question_id": 236,
+      "question_id": 233,
       "question": "歩行者や自転車の側を通る時は、歩行者や自転車との間に安全な間隔をあけるか、徐行しなければならない。",
       "correct_answer": true
     },
     {
-      "question_id": 237,
+      "question_id": 234,
       "question": "自動車は、同一方向に三つ以上の車両通行帯がある時は、最も右側の通行帯は追い越し等の為に空けておき、それ以外の車両通行帯を通行することができるが、その場合は、速度の遅い車が左側、速度が速くなるに連れて順次右よりの通行帯を通行する。",
       "correct_answer": true
     },
     {
-      "question_id": 238,
+      "question_id": 235,
       "question": "徐行とは車が直に停止できるような速度で進行することを言い、優先道路を通行している場合であっても、左右の見通しがきかない交差点では徐行しなければならない。",
       "correct_answer": true
     },
     {
-      "question_id": 239,
+      "question_id": 236,
       "question": "左右の見通しがきかない交差点（信号機などによる交通整理が行われている場合や優先道路を通行している場合を除く）や曲がり角、上り坂の頂上付近、勾配の急な下り坂は徐行しなければならない。",
       "correct_answer": true
     },
     {
-      "question_id": 240,
+      "question_id": 237,
       "question": "自動車を運転する時は、身体を斜めにしたり、肘を窓枠に乗せて運転しないほうがよい。",
       "correct_answer": true
     },
     {
-      "question_id": 241,
+      "question_id": 238,
       "question": "交差点で左右の信号が赤であっても、進行方向の信号が青であるとは限らない。",
       "correct_answer": true
     },
     {
-      "question_id": 242,
+      "question_id": 239,
       "question": "左側部分の幅が、6メートル以上の見通しのよい道路で、反対方向からの交通がない場合、道路の中央より右側部分にはみ出して通行することができる。",
       "correct_answer": false
     },
     {
-      "question_id": 243,
+      "question_id": 240,
       "question": "正面の信号が黄色の点滅をしているときは、車や路面電車は交差点を徐行しなければならない。",
       "correct_answer": false
     },
     {
-      "question_id": 244,
+      "question_id": 241,
       "question": "最大積載量が4,000キログラムの貨物自動車は、普通免許で運転できる。",
       "correct_answer": false
     },
     {
-      "question_id": 245,
+      "question_id": 242,
       "question": "車の停止位置は、停止線のあるところでは、その停止線の直前、ないところの停止位置は、交差点では、その直前（交差点のすぐ近くに横断歩道や自転車横断帯があるところでは、その直前）である。",
       "correct_answer": true
     },
     {
-      "question_id": 246,
+      "question_id": 243,
       "question": "交差点以外で、横断歩道も自転車横断帯も踏み切りもないところで手信号や灯火による信号をしている時の停止位置は、その警察官や交通巡視員の3メートル手前である。",
       "correct_answer": false
     },
     {
-      "question_id": 247,
+      "question_id": 244,
       "question": "普通運転免許証を所持している者は、普通自動二輪車を運転することができる。",
       "correct_answer": false
     },
     {
-      "question_id": 248,
+      "question_id": 245,
       "question": "車をバックさせる時、後部座席の同乗者などに後方の安全を確認してもらえば、運転者には後方の安全を確認する義務はない。",
       "correct_answer": false
     },
     {
-      "question_id": 249,
+      "question_id": 246,
       "question": "交通巡視員が信号機の信号と異なった手信号をした時は、原動機付自転車や軽車両もその手信号に従う。",
       "correct_answer": true
     }

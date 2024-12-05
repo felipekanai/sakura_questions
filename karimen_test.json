@@ -1,0 +1,1232 @@
+[
+  {
+    "question_id": 1,
+    "question": "車が曲がるときに生じる内輪差や車の死角などは、車を運転しない者も知っておくとよい。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 2,
+    "question": "ＡＢＳ装置は、タイヤのロックを防ぐことにより、方向安定性などを確保しようとするものであるので、空走距離に大きく関係する。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 3,
+    "question": "幼児などが乗り降りするために止まっている通学、通園バスのそばを通るときは、徐行するが、安全を確かめることが済んでいればその必要はない。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 4,
+    "question": "路線バスが方向指示器で発進の合図をしているときは、後方の車は急ブレーキや急ハンドルで避けなければならない場合を除いて、その発進を妨げてはならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 5,
+    "question": "自動車を運転していて、止まっている自動車のそばを通るときは、車の陰から人が飛び出してきたり、急にドアがあくことがあるので、注意しなければならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 6,
+    "question": "交通事故や故障で困っている人を見かけたときは、連絡や救護などお互いに協力しあうことが大切である。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 7,
+    "question": "道路で自動車の運転練習をするときは、仮運転免許証のコピーを携帯していれば運転者を確認することができるので、仮運転免許証を携帯しなくてもよい。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 8,
+    "question": "普通仮運転免許を受けていれば、原動機付自転車を運転することができる。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 9,
+    "question": "ドアをしめるときは、力を入れて一気にしめるとよい。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 10,
+    "question": "ＭＴ車は、上り坂で発進するときは、ハンドブレーキを使わずにクラッチ操作だけで発進するのがよい。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 11,
+    "question": "標識や標示で最高速度が指定されている道路でも、追い越しをするときは、その最高速度を超えてもよい。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 12,
+    "question": "時速40キロメートルで進行中、白や黄色の杖を持った人や高齢者が歩いているそばを通るときに、時速20キロメートルに減速して通過した。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 13,
+    "question": "アンチロックブレーキシステムを備えた自動車は、空走距離はなく制動距離のみで停止することができる。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 14,
+    "question": "エンジンが始動した状態のオートマッチック車（四輪車）は、チェンジレバーをＤにしただけでは、走りだすことはない。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 15,
+    "question": "停止中の路面電車の側方を通るときは、人がいなくて1.5ｍ以上の間隔がとれれば徐行して通行することができる。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 16,
+    "question": "大型特殊免許では、普通自動車を運転することができない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 17,
+    "question": "路面が雨にぬれているときや凍結しているときは、停止距離が長くなるので、通常、雨のときは乾燥路面の1.5倍、凍結路面では3倍以上の車間距離が必要とされている。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 18,
+    "question": "車の運転者は、ひとり歩きの子供や白色か黄色の杖を持って歩いている人や盲導犬を連れて歩いている人がいる場合は、安全な間隔をあけるか徐行して、これらの人が安全に通行できるようにしなければならない。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 19,
+    "question": "上り坂の頂上付近や勾配の急な下り坂は、徐行しなければならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 20,
+    "question": "対向車と行き違うときは、障害物のある反対側の車が、あらかじめ一時停止したり減速して道路をゆずるようにする。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 21,
+    "question": "車が後退するときの合図の時期は、後退しようとするときの約3秒前である。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 22,
+    "question": "アンチロックブレーキシステムを備えた自動車で急ブレーキをかける場合は、システムを作動させるため、一気にブレーキを強く踏み込み、そのまま踏み込み続けることが必要である。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 23,
+    "question": "坂道で近くに待避所があったとしても、下りの車が上りの車に道を譲るのが、運転者としてのマナーである。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 24,
+    "question": "歩行者の側を通行するときは、歩行者との間に安全な間隔をあけるか、徐行しなければならないが、歩行者が路側帯にいる時はその必要がない。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 25,
+    "question": "止まっている車の側を通る時、その車に人が乗っていないかなどを注意する必要はない。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 26,
+    "question": "自動車の運転者はもちろん、歩行者や自転車に乗る人も、自動車の死角、内輪差など自動車の特性をよく知ることが大切である。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 27,
+    "question": "同一方向に二つの車両通行帯がある時は、左側の車両通行帯を通行しなければならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 28,
+    "question": "交通整理の行われている交差点を右左折する時も徐行しなければならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 29,
+    "question": "警察署や消防署などの前に停止禁止部分の標示がされていても、それは緊急時の標示であるから、緊急時以外であれば、標示部分に入って停止してもかまわない。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 30,
+    "question": "自動車に乗ってからドアを閉める時は、強く力を入れて一気に閉めるとよい。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 31,
+    "question": "路線バスなどが方向指示器などで発進の合図をしている時でも、まだ発進する前であれば、後方の車はバスなどの前方に出てもよい。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 32,
+    "question": "運転者は、同乗者が車から乗り降りする際、ドアの開け閉めまで注意をする必要はない。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 33,
+    "question": "オートマチック車で、エンジン始動直後やエアコン作動時は、エンジンの回転数が低くなっているので、アクセルペダルを強く踏むようにする。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 34,
+    "question": "普通免許で小型特殊自動車の運転ができる。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 35,
+    "question": "車両通行帯のある道路で、標識や標示によって進行方向ごとに通行区分が指定されている時は、緊急自動車の接近などやむを得ない時以外は、指定された区分に従って通行しなければならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 36,
+    "question": "オートマチック車で上り坂に駐車する時は、チェンジレバーをL、又は１に入れておいた方がよい。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 37,
+    "question": "信号待ちで停止中、急用を思い出したので携帯電話を手に持って使用していたが、対面する信号が青になったので、そのまま話をしながら発進した。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 38,
+    "question": "ゆとりのある正しい運転姿勢は、ハンドルに両手をかけたとき、肘が水平になるようにシートの背を合わせるとよい。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 39,
+    "question": "進路を変える時は、前後に車がいない時でも、合図をしなければならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 40,
+    "question": "発進する時は、方向指示器などで合図をし、もう一度バックミラーなどで前後左右の安全を確かめるのがよい。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 41,
+    "question": "子供が１人で歩いている側を通る時は、必ず一時停止をしなければならない。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 42,
+    "question": "緊急自動車を運転する時は、その自動車の運転に必要な運転免許の他に、運転経験年数や年齢について特別の資格が必要である。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 43,
+    "question": "小さい子供がひとりで道路を歩いている時は、安全に通行できるように特に注意し、一時停止か徐行しなければならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 44,
+    "question": "最大積載量4,000キログラムの貨物自動車は、普通免許で運転できる。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 45,
+    "question": "運転者は、相手の立場に立ち、お互いに譲り合いと思いやりの気持ちを持って運転することが大切である。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 46,
+    "question": "車両通行帯のない道路では、自動車は追い越しなどでやむを得ない場合の他は、道路の左側に寄って通行しなければならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 47,
+    "question": "踏切内で車が動かなくなった時は、警報機の柱にある押しボタン式の踏切支障報知装置のボタンを押したり、携帯している発炎筒などで早く列車に知らせるとともに、早く車を踏切外に出すようにする。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 48,
+    "question": "後退する時の合図の時期は、後退しようとする時の3秒前である。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 49,
+    "question": "自動車を運転中に、どこを走っているか分からなくなったので、カーナビゲーション装置を時々注視しながら走行した。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 50,
+    "question": "交差点またはその付近で緊急自動車が近づいてきた時は、交差点をさけて道路の左側に寄って一時停止をしなければならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 51,
+    "question": "交通整理が行われていない左右の見通しがきかない交差点（優先道路を除く）では、徐行しなければならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 52,
+    "question": "車両通行帯のないトンネルでは、自動車や原動機付自転車を追い越すため、進路を変えたり、その横を通り過ぎてはならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 53,
+    "question": "シートベルトは、エアバックを備えている自動車に乗る場合でも着用しなければならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 54,
+    "question": "時速60キロメートルで走行中の普通乗用自動車の停止距離は、約22メートルである。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 55,
+    "question": "歩行者用道路では、沿道に車庫を持つ車は、警察署長の許可を受けなくても通行することができる。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 56,
+    "question": "自動車を運転するときは、非常信号用具や停止表示器材などを車に積んで置かなければならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 57,
+    "question": "後続車がいない時は、合図をする必要はない。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 58,
+    "question": "進路の前方に障害物がある時は、速度を上げて反対方向から進行してくる車より先にその場所を通過するようにするのがよい。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 59,
+    "question": "前の車に続いて踏切を通過するときは、徐行して通過するとよい。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 60,
+    "question": "一方通行となっている道路では、右側部分にはみ出して通行することができるが、そのはみ出し方ができるだけ少ない方がよい。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 61,
+    "question": "運転を頼まなければ、これから運転しようとする人に酒を勧めてもかまわない。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 62,
+    "question": "車は、他の車が右折するため道路の中央に寄って通行している時は、その左側を通行しなければならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 63,
+    "question": "オートマチック車は、エンジンを始動する前に、ブレーキペダルを踏んでその位置を確認し、アクセルペダルの位置を目で確認するのがよい。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 64,
+    "question": "停留所で路線バスが、方向指示器などで発進の合図をしていても、発進する前であれば、バスの発進を妨げてよい。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 65,
+    "question": "横断歩道のない交差点やその付近を横断している歩行者がある時は、徐行や一時停止してその歩行者の通行を妨げてはならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 66,
+    "question": "前の車が自動車を追い越そうとしている時は、追い越しを始めてはならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 67,
+    "question": "白や黄色の杖を持った人やその通行に支障のある高齢者が通行している場合には、あらかじめその手前で減速し、これらの人との間に安全な間隔をあけて通行しなければならない。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 68,
+    "question": "普通免許を受けていれば、自動二輪車を運転することができる。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 69,
+    "question": "交差点で右折をしようとする時は、先に交差点に入っていても、対向する直進車や左折車がある時は、その進行を妨げてはならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 70,
+    "question": "道路は、多数の人や車が通行する所であるから、運転者が一人でも自分勝手に通行すると、交通が混乱したり交通事故の原因になる。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 71,
+    "question": "自動車を運転する場合は、標識や標示で示されている最高速度を超えて運転してはならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 72,
+    "question": "同一方向に二つ以上の車両通行帯がある時は、最も右側の車両通行帯は追い越しのために空けておき、速度の遅い車が左側、速度が速くなるに連れ順次右側の車両通行帯を通行する。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 73,
+    "question": "自転車の側を進行する時は、自転車との間に安全な間隔をあけるか、徐行するなどの注意が必要である。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 74,
+    "question": "園児の乗り降りのために止まっている通学通園バスの側を通る時は、安全を確認すれば、速度を落とさなくてもよい。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 75,
+    "question": "交差点を通行中、後方から緊急自動車が接近してきたのを知ったので、その場に直ちに停車して通過させた。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 76,
+    "question": "運転免許証は、盗難や紛失に備えて自宅に保管し、免許証のコピーを携帯して運転した。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 77,
+    "question": "交差点とその手前から30メートル以内の場所では、優先道路を通行している場合を除き、他の自動車や原動機付自転車を追い越すため、進路を変えたり、その横を通り過ぎてはならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 78,
+    "question": "信号には、時差式信号のような信号機があるので、横の信号が赤であっても、前方の信号が青であるとは限らないので、前方の信号を確かめて進行する。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 79,
+    "question": "道路の曲がり角やカーブを走行する時は、車の内輪差のため、内側にいる歩行者や自転車などを巻き込む恐れがあるので、注意しなければならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 80,
+    "question": "仮運転免許を受けた者が練習のため運転する時は、指導者を乗せなければならないが、その指導者が受けている免許の種類や経験年数に決まりはない。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 81,
+    "question": "車に乗る前に、車の前後に人がいないかどうかを確かめれば、車の下まで確認する必要はない。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 82,
+    "question": "警察官は、交通混雑の防止や危険防止のため、信号機の信号や標識・標示などと異なる通行の方法を指示することがある。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 83,
+    "question": "踏切を通過する時は、踏切の直前（停止線がある時は、その直前）で一時停止をし、自分の目と耳で左右の安全を確かめなければならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 84,
+    "question": "オートマチック車を駐車する場合は、道路の状況に関係なくチェンジレバーは「P」の位置にするのが基本である。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 85,
+    "question": "チャイルドシートを正しく使用することにより、交通事故にあった場合の被害を大幅に軽減するとともに、子供が運転操作の支障となることを防止する。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 86,
+    "question": "前方の交通が混雑している時は、前方の信号が青の表示をしていても交差点内に進入してはならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 87,
+    "question": "運転者が疲れている時は、危険を認知して判断するまでに時間がかかるので、空走距離は長くなる。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 88,
+    "question": "自動車は、前の車が右折などのために、進路を変えようとしている時は、これを追い越してはならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 89,
+    "question": "交差点で左折する時は、バックミラーで左後方を確かめれば、徐行までする必要はない。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 90,
+    "question": "横断歩道を横断している人がいたが、自分の車が近づいたら立ち止まったので、そのまま通過した。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 91,
+    "question": "片側が転落する恐れがある崖になっている道路で、安全に行き違うことができない時は、崖側の車が一時停止して進路を譲らなくてはならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 92,
+    "question": "こう配の急な下り坂では、加速にはずみがつき、危険であるのでほかの車を追い越してはならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 93,
+    "question": "停止する時は、ブレーキをむやみに使わないで、なるべくアクセルの操作で徐々に速度を落としてから止まるようにするのがよい。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 94,
+    "question": "通学・通園バスが止まっていて、園児などが乗り降りしている側方を通過する時は、徐行して安全を確かめなければならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 95,
+    "question": "普通仮免許を受けていれば、小型特殊自動車を運転練習することができる。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 96,
+    "question": "横断歩道や自転車横断帯の前後30メートル以内は、追い越しが禁止されている。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 97,
+    "question": "同一方向に三つの車両通行帯のある道路で、大型貨物自動車を運転し、二つの通行帯にまたがって通行した。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 98,
+    "question": "標識などで指定されていない一般道路における最高速度は車種によって定められており、乗用自動車は時速60キロメートル、貨物自動車は時速50キロメートルである。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 99,
+    "question": "左右の見通しのきかない交差点、曲がり角、上り坂の頂上では、必ず警音器を鳴らさなければならない。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 100,
+    "question": "車を運転する時は、運転免許証を携帯し、自動車検査証を車に備え、自動車損害賠償責任保険証明書または責任共済証明書は、紛失しないように自宅に保管するとよい。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 101,
+    "question": "一方通行の道路で緊急自動車が近づいてきた時に、道路の左側に寄ると妨げとなる場合は、右側に寄って進路をゆずる。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 102,
+    "question": "車を運転中、進路の前方に障害物がある時は、一時停止か減速して反対方向から進行してくる車を先に通行させる。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 103,
+    "question": "車に乗ってからドアを閉める時は、少し手前で一度止め、力を入れて閉めるようにする。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 104,
+    "question": "故障のため、車両総重量が750キログラムを超える車をロープやクレーンでけん引する時は、けん引免許は必要ない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 105,
+    "question": "一方通行の道路では、道路の中央から右の部分も通行することができる。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 106,
+    "question": "踏切の前方が混雑している時は、踏切内で停止することになると危険であるから、その踏切に入ってはならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 107,
+    "question": "進路を変える時は、前後に車がない時でも、合図をしなければならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 108,
+    "question": "オートマチック車のチェンジレバーの操作は、前進はD、後退はR、駐車はPに入れるのが正しい操作である。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 109,
+    "question": "これから車を運転しようとする人に、酒を出したり、勧めたりしてはいけない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 110,
+    "question": "シートベルトは、時速30キロメートル以下で走行する時や運転して行く先が短時間であれば、着用しなくてもよい。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 111,
+    "question": "歩行者用道路では、沿道に車庫を持つ車などで特に通行を認められた車は、歩行者に注意し、徐行して通行することができる。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 112,
+    "question": "速度が遅くなると、停止距離は長くなる。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 113,
+    "question": "前方の車が踏切や横断歩道の前で停止や徐行している時は、その前に割り込んだり、横切ったりしてもよい。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 114,
+    "question": "横断歩道を横断している人がいたが、車が近づいたら立ち止まったので、そのまま進行を続けた。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 115,
+    "question": "左折する時は、あらかじめ道路の左端に寄り、交差点の側端に沿って徐行しながら通行する。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 116,
+    "question": "10人乗りのワゴン車は、普通免許で運転することができる。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 117,
+    "question": "踏切を通過する時は、落輪しないようにやや中央寄りを通行する。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 118,
+    "question": "車は、踏切とその手前から30メートル以内の場所で、自動車や原動機付自転車を追い越してはならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 119,
+    "question": "児童の乗り降りのために止まっている通学通園バスの側を通る時は、徐行して安全を確かめなければならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 120,
+    "question": "交差点付近を指定通行区分によって通行している時は、緊急自動車が接近してきても、進路を譲ることなく通行区分に従って通行しなければならない。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 121,
+    "question": "大型特殊免許を受けていれば、普通乗用自動車を運転することができる。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 122,
+    "question": "歩行者や自転車の側を通る時は、十分な間隔を空けていても、必ず徐行しなければならない。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 123,
+    "question": "交通規則は、歩行者や運転者などが道路を安全、円滑に通行する上で守るべき共通の約束事として決められているものである。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 124,
+    "question": "同一方向に三つの車両通行帯のある道路で、普通自動車を運転し、左から数えて三番目の通行帯を走り続けた。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 125,
+    "question": "標識や標示で最高速度が指定されている道路でも、追越しをする時は指定された最高速度を超えてもよい。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 126,
+    "question": "交差点と交差点付近以外で緊急自動車が近づいてきた時は、道路形態を問わず、必ず左側に寄って進路を譲らなければならない。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 127,
+    "question": "補助標識は、案内標識のように交通規制を目的としない標識である。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 128,
+    "question": "自動車を運転する時には、運転免許に記載されている条件（眼鏡等など）を守らなければならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 129,
+    "question": "交通が混雑している所では、車は路側帯を通行してもよい。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 130,
+    "question": "普通仮免許を受けた者が練習のため普通自動車を運転する時は、車の前後の定められた位置に、「初心者マーク」をつけなければならない。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 131,
+    "question": "踏切を通過する時は、踏切の直前（停止線がある時は、その直前）で一時停止をし、安全を確かめなければならないが、見通しのよいところでは徐行して通過することができる。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 132,
+    "question": "発進する時は、方向指示器などによって発進の合図をし、もう一度バックミラーなどで前後左右の安全を確かめてから発進するのがよい。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 133,
+    "question": "オートマチック車で上り坂に駐車する時は、チェンジレバーを「Ｌ」、または「１」に入れておいたほうがよい。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 134,
+    "question": "幼児を前部座席に乗せることは、幼児にとって非常に危険であるばかりでなく、運転操作の支障にもなるので、チャイルドシートを用いて後部座席に乗せる。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 135,
+    "question": "前方の交差点が混雑している場合、その手前に横断歩道や自転車横断帯があれば、その中に入って停止してもよい。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 136,
+    "question": "路面が雨に濡れ、タイヤがすり減っている場合の停止距離は、乾燥した路面でタイヤの状態がよい場合に比べて、2倍程度長くなることがある。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 137,
+    "question": "後ろの車が自分の車を追い越そうとしている時は、追い越してはならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 138,
+    "question": "自動車で交差点を右折しようとする時は、あらかじめできるだけ道路の中央に寄り、交差点の中心のすぐ内側を徐行しなけばならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 139,
+    "question": "横断歩道や自転車横断帯の手前30メートル以内の場所では、他の車（軽車両を除く）を追い越したり、追い抜くことはできない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 140,
+    "question": "運転免許は、第一種運転免許、第二種運転免許、仮運転免許の3種類に区分される。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 141,
+    "question": "大型特殊免許か普通免許、準中型免許を受けて通算2年以上経過している者は中型免許を受験することができる。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 142,
+    "question": "運転者は、同乗者が乗り降りする際、ドアの開け閉めまで注意をする必要はない。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 143,
+    "question": "踏切内でエンストした時、マニュアル車では、あせらずエンジンをかけ直し、それでもダメな時は非常手段としてギアをローかセカンドに入れ、セルモーターで動かすことができる。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 144,
+    "question": "普通免許では、普通自動車、小型特殊自動車、原動機付自転車を運転することができる。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 145,
+    "question": "自動車を運転する時は、有効な運転免許証（仮運転免許も含む）を所持しなければならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 146,
+    "question": "仮運転免許を受けた者が練習のため運転する時は、その車を運転することができる第二種免許を取得している者を横に乗せて指導を受ければ、その者の運転経験年数に関係なく運転できる。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 147,
+    "question": "車から降りるためドアを開ける時は、まず少し開けて一度止め、前後の安全を確かめる。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 148,
+    "question": "大型免許又は中型免許を受けようとする者は、普通免許の運転経験が2年以上あれば受けることができる。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 149,
+    "question": "シートベルトは、エアバックが備えられている車に乗る場合は、締めなくてもよい。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 150,
+    "question": "運転者が疲れていると、危険を判断するまでに時間がかかるので、空走距離が長くなる。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 151,
+    "question": "道路の左側部分の幅が通行のため十分でない時は、右側部分に全部、または一部はみ出して通行することができる。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 152,
+    "question": "踏切を通過しようとする時は、警報機が鳴っても、しゃ断機が降り始める前であれば、通過することができる。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 153,
+    "question": "地理不案内の場所を走行中、目的の場所や道路を見つけた場合、合図を出すと同時に進路変更するのは危険である。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 154,
+    "question": "オートマチック車のチェンジレバーがＤ（レンジ）のときのクリープ現象とは、ブレーキペダルをしっかり踏んでいないと、アクセルペダルを踏まなくても自動車がゆっくり動き出すことである。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 155,
+    "question": "正しい運転姿勢をとるためのシートの前後の位置は、クラッチを踏み込んだ時、膝が伸びきった状態に合わせるとよい。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 156,
+    "question": "道路に面した場所に出入りするために歩道を横切る場合は、歩行者の通行を妨げる恐れがなければ一時停止しなくてもよい。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 157,
+    "question": "空走距離とは、運転者が危険を感じてからブレーキが実際にきき始めるまでに車が走る距離である。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 158,
+    "question": "児童の乗り降りのため止まっている通学・通園バスの側を通る時は、徐行して安全を確かめなければならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 159,
+    "question": "大型二輪免許を受けている者は、ミニカーを運転することができる。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 160,
+    "question": "飲酒運転は、運転者自身の自覚によるものであり、第三者が車を運転しようとする者に酒類を提供し、または勧めたりしても責任を問われることはない。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 161,
+    "question": "車両通行帯のある道路では、やむを得ない場合のほかは、二つの車両通行帯にまたがって通行してはならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 162,
+    "question": "標識や標示により、最高速度が指定されていない場合には、普通自動車は、時速60キロメートルを超えて運転してはならないが、最高速度が指定されている場合は、その最高速度を超えて運転してはならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 163,
+    "question": "路面電車が停留所で止まっている時は、人の乗り降りが終わるまで、一時停止していなければならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 164,
+    "question": "自動車を運転する時は、有効な自動車検査証と自動車損害賠償責任保険証明書または責任共済証明書を備えているか確かめることが大切である。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 165,
+    "question": "信号機が設置されている踏切で信号機の表示する青信号に従って通過する時は、安全確認をすれば一時停止の必要はない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 166,
+    "question": "バックで発進する場合は、同乗者などに後方の安全確認を手伝ってもらえば、運転者は後方の確認をしなくてもよい。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 167,
+    "question": "オートマチック車で駐車する時は、短時間でもチェンジレバーをＰの位置に入れ、ハンドブレーキを確実にかけるのがよい。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 168,
+    "question": "制動距離とは、空走距離と停止距離を合わせたものである。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 169,
+    "question": "赤色の点滅信号の時は、自動車は他の交通に注意して進むことができる。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 170,
+    "question": "運転者は車に乗り降りをする際、後方から接近してくる車の有無を確認するようにする。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 171,
+    "question": "普通自動車で車両総重量が750キログラム以下の車をけん引する時は、けん引する自動車の免許があれば、けん引免許は必要ない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 172,
+    "question": "助手席にエアバックが備えられている車で、助手席に子供を乗せる時は、座席をできるだけ後方に引いて、チャイルドシートを前向きに取り付けるとよい。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 173,
+    "question": "前方の交通が渋滞している場合は、横断歩道や踏切に入ってはいけないが、自転車横断帯に入って停車するのはかまわない。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 174,
+    "question": "ブレーキをかける時は、最初はできるだけ軽く踏み込み、それから必要な強さまで徐々に踏み込むのがよい。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 175,
+    "question": "道路の曲がり角付近では、自動車や原動機付自転車を追い越してはならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 176,
+    "question": "車両通行帯が黄色の線で区画されている時は、右折や左折のためでも、黄色の線をこえて進路を変えてはならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 177,
+    "question": "横断歩道や自転車横断帯とその手前30メートル以内の場所では、ほかの車（軽車両を除く）を追い越したり追い抜いたりしてはいけない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 178,
+    "question": "車両通行帯のある道路では、追い越しなどやむを得ない場合のほかは車両通行帯からはみ出したり、２つの車両通行帯にまたがったりして通行してはならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 179,
+    "question": "飲酒運転は運転者本人の自覚によるもので、第三者が運転しようとしている人に酒を提供し、または酒をすすめても責任にはならない。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 180,
+    "question": "仮運転免許は、第一種運転免許を受けようとする者が、練習などのために普通自動車などを運転しようとする場合に必要である。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 181,
+    "question": "普通自動車でほかの車をけん引する時は、けん引する自動車の種類に応じた運転免許の他にけん引免許が必要であるが、けん引される車の総重量（人や荷物を乗せた状態での車全体の重さ）が750ｋｇ以下であればけん引免許は必要ない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 182,
+    "question": "後退する時の合図の時期は、後退しようとする時である。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 183,
+    "question": "交差点で右折しようとする時は、あらかじめできるだけ道路の中央により、交差点の中心のすぐ内側を減速しながら通行しなければならない。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 184,
+    "question": "バックで発進する事は危険なので、車庫などに入れる時は、あらかじめ発進しやすいように後退で入れておくのがよい。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 185,
+    "question": "シートベルトは乗員を守るためのものであり、同乗者の着用も運転者が指導しなければならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 186,
+    "question": "交差点や交差点付近以外を通行中に後方から緊急自動車が近づいてきた時は、車は、道路の左側によって進路をゆずらなければならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 187,
+    "question": "優先道路を通行している場合は、交差点の手前30メートル以内の場所でも追い越すことができる。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 188,
+    "question": "同一方向に二つの車両通行帯がある道路では、右側の車両通行帯を通行するのがよい。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 189,
+    "question": "信号機のない交差点で、交差道路の幅員が広い場合や交差道路が優先道路の時は、一時停止か徐行して交差道路を通行している車の進行を妨げてはいけない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 190,
+    "question": "仮運転免許で運転練習する場合は、運転免許を受けて３年を過ぎた人の指導を受けて練習することができるが、免許ならどんな免許でもよい。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 191,
+    "question": "仮免許を受けた者が練習のため自動車を運転する時は、仮免許練習標識を車の前と後ろの定められた位置に付けなければならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 192,
+    "question": "一方通行になっている道路では、道路の中央から右側部分にはみ出して通行できるが、この場合には、はみ出し方ができるだけ少なくなるようにしなければならない。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 193,
+    "question": "車のブレーキのかけ方は、最初はできるだけ軽く踏み、それから必要な強さまで徐々に踏み込んで速度を落とすのがよい。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 194,
+    "question": "転回する時の合図の時期は、転回しようとする時の約3秒前である。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 195,
+    "question": "路線バスが停留所から発進しようと合図をしている場合でも、急な用事がある時やバスの発進が遅れている時などは追い抜いて進行してもよい。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 196,
+    "question": "白や黄のつえを持った人や、通行に支障のある高齢者が通行している場合には、あらかじめその手前で減速しこれらの人との間に一定の間隔をあけて通行しなければいけない。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 197,
+    "question": "歩行者専用道路は、沿道に車庫を持つ車であれば、警察署長の許可を受けなくても通行することができる。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 198,
+    "question": "普通仮運転免許で小型特殊自動車を練習のため運転することができる。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 199,
+    "question": "自動車を運転している時に、どこを走っているのか分からなくなったので、カーナビゲーション装置を注視しながら走行した。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 200,
+    "question": "踏切とその手前30メートル以内の場所では、追い越しが禁止されている。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 201,
+    "question": "路面が濡れている道路でブレーキをかける時は、ブレーキペダルを一気に踏み込むのがよい。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 202,
+    "question": "車両通行帯のあるトンネルの中は、自動車や原動機付自転車を追い越しすることができる。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 203,
+    "question": "左右の見通しがきかない交差点（優先道路を通行している場合や交通整理が行われている場合を除く）、曲がり角、上り坂の頂上付近、勾配の急な下り坂は、徐行しなければならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 204,
+    "question": "シートベルトは交通事故にあった場合の被害を大幅に軽減するとともに、正しい運転姿勢を保たせることにより、運転中の疲労を軽減するなどさまざまな効果がある。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 205,
+    "question": "歩道や路側帯を横切る時は、歩行者の通行を妨げなければ徐行して通行できる。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 206,
+    "question": "自動車が右折しようとして道路の中央に寄っている場合には、後方の自動車は、その右折車の左側を追い越すことができる。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 207,
+    "question": "車が左折する時は、内輪差（曲がる時に後輪が前輪より内側を通ること）が生じるが、右折の時は生じない。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 208,
+    "question": "幼児を乗せる時は、後部座席に補助装置を用いて乗せるよりも、目の届く前部座席に直接乗せるのがよい。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 209,
+    "question": "歩行者用道路では、沿道に車庫を持つ車などで、特に警察署長の許可を受けた車は、歩行者などに注意して減速して通行することができる。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 210,
+    "question": "車に乗る前は、車の周囲の状況を確かめることはもちろん、車の下ものぞいて人がいるかどうかなども確かめた方がよい。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 211,
+    "question": "普通免許で運転できる車の種類は、普通自動車、原動機付自転車および小型特殊自動車の三種類である。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 212,
+    "question": "横断歩道や自転車横断帯に近づいた時に、歩行者や自転車が横断している時は、一時停止しなければならないが、歩行者や自転車が横断しようとしている時は徐行すればよい。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 213,
+    "question": "交差点に入ろうとしている時に緊急自動車が近づいてきた時は、直ちに交差点で一時停止し、緊急自動車に進路をゆずなければならない。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 214,
+    "question": "進路の前方に障害物がある時は、あらかじめ一時停止か減速して、反対方向からの車に道をゆずらなければならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 215,
+    "question": "内輪差とは、ハンドルを左に切ったときの「ハンドルのあそび」のことである。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 216,
+    "question": "横断歩道のない交差点や交差点近くを通行中、歩行者が横断を始めたので徐行などして、先に歩行者を通行させた。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 217,
+    "question": "横断歩道や自転車横断帯と、その手前で停止している車がある時は、そのそばを通って前方に出る前に安全確認をして減速しながら通行しなければならない。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 218,
+    "question": "通学通園バスが止まっていて、園児などが乗り降りをしている車の側方を通って前方に出る時に、十分な安全間隔が取れたが徐行して安全を確かめながら通行した。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 219,
+    "question": "道路の左前方に道路工事をしている場所がある時は、対向車に自分の存在を知らせる為に、できるだけ早く進路変更をして道路の右側に出たほうがよい。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 220,
+    "question": "雨に濡れている路面では、乾燥した路面の場合と比べて停止距離は2倍程度に伸びることがある。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 221,
+    "question": "普通免許や準中型免許を受けて1年を経過していない者は、このマーク（初心者マーク）を車の前と後の定められた位置に付けて運転しなければならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 222,
+    "question": "停止距離とは、空走距離と制動距離を合わせたものである。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 223,
+    "question": "雨に濡れた道路を走る場合や重い荷物を積んでいる場合は、制動距離は短くなる。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 224,
+    "question": "踏切を通過する時は、信号機があれば信号に従って通行する事ができるが、その場合には徐行して通行しなければならない。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 225,
+    "question": "標識や標示で最高速度が指定されていない一般道路の普通乗用自動車の法定最高速度は、60キロメートル毎時であるが、普通貨物自動車の法定最高速度は50キロメートル毎時である。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 226,
+    "question": "交差する道路が優先道路である時や、その道幅が明らかに広い時は、徐行するとともに、交差道路を通行する車や路面電車の進行を妨げてはならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 227,
+    "question": "時速60キロメートルで走行している普通自動車の路面が乾燥している場合の停止距離は、約22メートルである。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 228,
+    "question": "自転車横断帯とその手前30メートル以内の場所は、自動車や原動機付自転車を追い越したり、追い抜いたりしてはならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 229,
+    "question": "交通整理の行われていない道幅が同じような道路の交差点では、路面電車や左方からくる車の進行を妨げてはならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 230,
+    "question": "踏切内では、落輪しないように歩行者や自転車に注意して、やや中央よりを通過するのがよい。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 231,
+    "question": "自動車に乗ってからドアを閉める時は、途中で止めないで力を入れて一気に閉めるのがよい。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 232,
+    "question": "白や黄の杖を持った人や、通行に支障のある高齢者が通行している場合には、その通行を妨げないように一時停止するか徐行する。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 233,
+    "question": "歩行者や自転車の側を通る時は、歩行者や自転車との間に安全な間隔をあけるか、徐行しなければならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 234,
+    "question": "自動車は、同一方向に三つ以上の車両通行帯がある時は、最も右側の通行帯は追い越し等の為に空けておき、それ以外の車両通行帯を通行することができるが、その場合は、速度の遅い車が左側、速度が速くなるに連れて順次右よりの通行帯を通行する。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 235,
+    "question": "徐行とは車が直に停止できるような速度で進行することを言い、優先道路を通行している場合であっても、左右の見通しがきかない交差点では徐行しなければならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 236,
+    "question": "左右の見通しがきかない交差点（信号機などによる交通整理が行われている場合や優先道路を通行している場合を除く）や曲がり角、上り坂の頂上付近、勾配の急な下り坂は徐行しなければならない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 237,
+    "question": "自動車を運転する時は、身体を斜めにしたり、肘を窓枠に乗せて運転しないほうがよい。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 238,
+    "question": "交差点で左右の信号が赤であっても、進行方向の信号が青であるとは限らない。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 239,
+    "question": "左側部分の幅が、6メートル以上の見通しのよい道路で、反対方向からの交通がない場合、道路の中央より右側部分にはみ出して通行することができる。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 240,
+    "question": "正面の信号が黄色の点滅をしているときは、車や路面電車は交差点を徐行しなければならない。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 241,
+    "question": "最大積載量が4,000キログラムの貨物自動車は、普通免許で運転できる。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 242,
+    "question": "車の停止位置は、停止線のあるところでは、その停止線の直前、ないところの停止位置は、交差点では、その直前（交差点のすぐ近くに横断歩道や自転車横断帯があるところでは、その直前）である。",
+    "correct_answer": true
+  },
+  {
+    "question_id": 243,
+    "question": "交差点以外で、横断歩道も自転車横断帯も踏み切りもないところで手信号や灯火による信号をしている時の停止位置は、その警察官や交通巡視員の3メートル手前である。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 244,
+    "question": "普通運転免許証を所持している者は、普通自動二輪車を運転することができる。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 245,
+    "question": "車をバックさせる時、後部座席の同乗者などに後方の安全を確認してもらえば、運転者には後方の安全を確認する義務はない。",
+    "correct_answer": false
+  },
+  {
+    "question_id": 246,
+    "question": "交通巡視員が信号機の信号と異なった手信号をした時は、原動機付自転車や軽車両もその手信号に従う。",
+    "correct_answer": true
+  }
+]
