@@ -1,0 +1,1164 @@
+{
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "総排気量660cc以下の普通自動車が中央分離帯のある高速自動車国道の本線車道を通行する場合に出すことのできる法定最高速度は80km/hである。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 2,
+      "question": "ファンベルトの張り具合は、ベルトの中央部を手で押し、ベルトが少したわむ程度がよい。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 4,
+      "question": "駐車しても、車の右側の道路上に3.5ｍ以上の余地がなかったが、他の交通車両も少なく、他の交通を妨げないと判断して駐車した。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 6,
+      "question": "オートマチック車を運転する場合、ブレーキペダルをしっかり踏んだままチェンジレバーの位置を目で確認し、発進する場合は「D」、後退する場合は「R」に入れブレーキペダルを離し、徐々に走り出し、アクセルペダルを静かに踏んだほうがよい。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 9,
+      "question": "速度規制の標識のない道路で大型貨物自動車が追い越しをする時に出すことのできる最高速度は60km/hである。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 10,
+      "question": "自動車を運転する時は、身体を斜めにしたり、ひじを窓枠にかけたりして運転してはならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 11,
+      "question": "道路外に出るため左折しようとする時は、その直前で道路の左に寄るようにしなければならない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 13,
+      "question": "駐車場、車庫などの自動車専用の出入口から3ｍ以内の場所では駐車も停車もできない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 14,
+      "question": "運転免許は、第一種運転免許、第二種運転免許、原付免許の3種に区分される。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 16,
+      "question": "二輪車のチェーンは、ゆるみが無く張り過ぎているくらいのほうがよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 17,
+      "question": "乗車定員は運転者を含まない定員で、12歳未満の子供を乗せる場合は、3人を大人2人として計算する。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 19,
+      "question": "昼間、車が故障したり燃料がきれたりして一般道路に止めておく時は、トランクやボンネットを上げたりして、一見して故障車としてわかるようにしたほうがよい。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 20,
+      "question": "長い下り坂では、燃料を節約するため、エンジンを切ってフットブレーキを使用して下るのがよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 22,
+      "question": "交通事故が起きた時は、現場に警察官が到着する前でも、他の車の通行の妨げや事故の続発を防止するために安全な場所に車を移動したほうがよい。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 24,
+      "question": "路面が雨にぬれ、タイヤがすり減っている場合の停止距離は、乾燥した路面でタイヤの状態がよい場合に比べて2倍程度にのびることがある。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 26,
+      "question": "他の車に追い越される時に、追い越すために十分な余地がない時は、できるだけ左に寄り進路を譲らなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 28,
+      "question": "後輪が横すべりを始めた時、もしブレーキペダルを踏んでいたらすぐにブレーキペダルから足を離し、ハンドルで車の方向を立て直すようにするとよい。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 30,
+      "question": "前方の車を追い越す時は、右折するためなどで道路の中央によって通行している時の他は、その車の右側を追い越さなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 31,
+      "question": "道路の中央から右側部分にはみ出して通行できる時でも一方通行の他は、そのはみ出し方はできるだけ少なくなるようにしなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 32,
+      "question": "自家用の大型バスを運転する時は、大型第二種運転免許が必要である。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 34,
+      "question": "二輪車でぬかるみや砂利道を通行する時は、タンクを両ひざではさみ、路面の状況によっては立ち姿勢をとり、バランスを保ちながら走行するのがよい。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 35,
+      "question": "二輪車のエンジンブレーキは、高速ギア（トップギア）から低速ギアへ一気に入れた方が、制動力が大きく安全に停止できる。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 37,
+      "question": "大型特殊免許では、大型特殊自動車のほか普通自動車、原動機付自転車、小型特殊自動車を運転することができる。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 38,
+      "question": "自動二輪免許を取得して1年未満の運転者は、運転者以外の者を乗車させてはならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 40,
+      "question": "歩行が困難な人が高速道路で故障などにより運転することができなくなった時は、停止表示灯を自動車の側方の路上など後方から見やすいところに置くことができる。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 41,
+      "question": "高速道路で駐停車する事はできないが、危険防止のためやむを得ない場合は、一時停止することができる。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 42,
+      "question": "踏切を通る時は、対向車に注意をし、できる限り左端によって通過するのがよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 43,
+      "question": "幅の広い路側帯に駐車する時は、歩行者の通行のため車の左側に0.5ｍ以上の余地をあければ駐車することができる。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 45,
+      "question": "二輪車でブレーキをかける時は、必ずクラッチを切ってからかけたほうがよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 46,
+      "question": "自動車（四輪車）の駐車ブレーキは、いっぱいに引く（踏む）場合、引きしろ（踏みしろ）が少ないほうがよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 48,
+      "question": "同一方向に2つの車両通行帯がある時は、法定最高速度の遅い車が左側、速度の速い車が右側の車両通行帯を通行する。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 50,
+      "question": "霧の時、危険防止のために必要に応じて警音器を鳴らすのは、警音器の乱用にならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 51,
+      "question": "火災報知器から1ｍ以内の場所は、客待ちのために駐車してはならないが、客の乗り降りのための停車はすることができる。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 53,
+      "question": "原動機付自転車の正しい運転姿勢は、ステップに乗せた足のつま先が外側を向き、両ひざが開いているのがよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 54,
+      "question": "大型貨物自動車の高速自動車国道の本線車道における法定最高速度は、100km/hである。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 55,
+      "question": "50km/hで走行中の車両の停止距離は、一般的に約15mである。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 57,
+      "question": "高速道路の本線車道には、加速車線、減速車線、登坂車線も含まれる。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 58,
+      "question": "駐車禁止の場所であっても同乗者が来るのを5分間待つことは人の乗り降りのための停止であるから違反にはならない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 59,
+      "question": "有効期限の切れた運転免許証であっても、6ヶ月以内であれば無免許運転にはならない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 61,
+      "question": "道路工事の区間の端から、5ｍ以内の場所は、人の乗り降りのための停車は認められている。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 62,
+      "question": "車両通行帯のあるトンネルの中では、停車することが認められている。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 64,
+      "question": "踏切内で車が故障した時、発炎筒などを使い切ってしまった時は、煙の出やすいものを付近で燃やすなどして合図をすることも必要である。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 65,
+      "question": "バス優先通行帯を通行中、後方からバスが見えたので右側の車両通行帯に進路を変えようとしたが混雑していたのでそのまま通行した。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 67,
+      "question": "疲労の影響は目に最も強く現れ、疲労度が高まるにつれて見落としや見間違いが多くなる。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 68,
+      "question": "自動車を運転する人は、万が一に備えて自動車保険に加入したり救急用具を車に備えておくなど十分な用意をする必要がある。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 69,
+      "question": "坂道では、上りの車が優先であるから、近くに待避所がある時でも、下りの車を優先させる必要はない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 71,
+      "question": "仮免許での運転練習を指導する場合は、練習する車種の第二種運転免許を持っている21歳以上であれば、運転経験に関係なく同乗指導することができる。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 73,
+      "question": "横断歩道の端から手前5ｍ以内の場所では、停車はできないが、横断歩道の端から先5ｍ以内の場所は停車できる。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 75,
+      "question": "二輪車のブレーキには、あそびがないほうがよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 76,
+      "question": "同一方向に3車線以上ある車両通行帯で、通行区分を示す標識などない時は、自動車（小型特殊自動車を除く）は、最も右側の車両通行帯は追い越しのため空けておき、それ以外の車両通行帯を通行できるが、その場合、速度の遅い車が左側、速度が速くなるにつれて順次右よりの車両通行帯を通行するのがよい。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 77,
+      "question": "ぬかるみなどで車輪が空回りする時は、一番力の強いローギアに入れエンジンの回転を上げて一気にタイヤを回して出るほうがよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 78,
+      "question": "大型二輪免許を受けている者は、普通自動二輪車と原動機付自転車は運転することはできるが、小型特殊自動車は運転することができない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 79,
+      "question": "二輪車を運転してカーブを通行する時、カーブの途中でクラッチを切って惰力で走行し、カーブの後半でやや加速するのがよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 80,
+      "question": "自動二輪車を運転中にブレーキをかける時は、エンジンブレーキをかけながら前後輪のタイヤのブレーキを同時に使用するとよい。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 82,
+      "question": "荷台のある原動機付自転車には、60kgまでの重さの荷物を積むことができる。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 83,
+      "question": "高速道路の本線車道でブレーキをかける時は、高速運転中であるからフットブレーキを強く踏み込まないと効果が上がらない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 85,
+      "question": "交通規則とは、道路の安全、円滑に通行するうえで守るべき共通の約束事として決められているものであり、運転者は交通規則を守るべき社会的な責任と義務がある。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 86,
+      "question": "他の車両を追い越す時は、たとえ瞬間的であっても指定された最高速度を超えて運転してはならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 87,
+      "question": "最高速度40km/hの道路では、原動機付自転車も40km/hで走行することができる。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 88,
+      "question": "勾配の急な上り坂では、確実に輪止めをすれば駐車してもよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 89,
+      "question": "ブレーキペダルをいっぱいに踏んだ時、床板との隙間が少ない時や、踏み応えのやわらかい場合は、ブレーキ液の液漏れが考えられる。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 90,
+      "question": "標識や標示で最高速度の指定がされていない中央分離帯のある高速自動車国道の本線車道では、総排気量125ccを超える自動二輪車は、80km/hを超える速度で走行してはならない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 41,
+      "question": "幅の広い路側帯のある道路に駐車する時は、車の左側に0.75ｍ以上の余地をあければ、車を路側帯の中に入れて駐車することができる。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 43,
+      "question": "故障車をロープなどでけん引する時は、故障車との間は5ｍ以内とし、見やすいところに0.3ｍ平方以上の赤い布をつけておく。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 44,
+      "question": "交通整理の行われていない優先道路に入ろうとする時は、見通しがよくその優先道路を通行している車や歩行者がいない場合は徐行する必要はない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 45,
+      "question": "夜間、一般道路に駐車する時は、後方から見やすいところに停止表示器材を置けば、駐車灯や尾灯等はつけなくてもよい。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 46,
+      "question": "交差点を右折しようとした時、対向の直進・左折する車が来ていたが、先に交差点に入っていたのでそのまま右折した。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 47,
+      "question": "踏切で車が動かなくなった時は、踏切支障報知装置のある踏切ではそれを活用して一刻も早く列車の運転士などに知らせなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 48,
+      "question": "上り坂に駐車する時は、ギアはバックよりもローのほうがよい。（ＡＴ車を除く）",
+      "correct_answer": true
+    },
+    {
+      "question_id": 49,
+      "question": "制動距離とは、空走距離と停止距離を合わせた距離のことである。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 50,
+      "question": "追い越しをする場合であっても、定められた最高速度を超えてはならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 52,
+      "question": "道幅の狭い道路で対向車と行き違う時は、やむを得ないので速度を減速したり安全な間隔をあけなくてもよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 53,
+      "question": "出発地の警察署長の許可を受けた時は、貨物自動車の荷台に人を乗せて運転することができる。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 54,
+      "question": "左側部分の道幅が６ｍ以上ある道路で、見通しもよく安全であったので、右側部分にはみ出して追い越しをした。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 55,
+      "question": "ミニカーは、高速自動車国道は通行できないが、自動車専用道路は通行することができる。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 57,
+      "question": "歩行者用道路を特に通行が認められた車が通行する時は、歩行者に十分注意して通行すれば徐行する必要はない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 58,
+      "question": "警察官が腕を水平に上げている時、その体に対面する車は直進できないが右折や左折はできる。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 59,
+      "question": "昼間でもトンネルの中や濃い霧の中などで50ｍ（高速道路では200ｍ）先が見えないような場所を通行するときは、前照灯をつけなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 60,
+      "question": "車に働く遠心力や制動距離は、速度が2倍になると約4倍になる。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 62,
+      "question": "ＭＴの二輪車に乗る時は、ステップに土踏まずを乗せ、足の裏が水平になるようにし、タンクを両ひざでしめる。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 63,
+      "question": "高速自動車国道で登坂車線のあるところでは、大型貨物自動車はその車線を通行しなければならない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 64,
+      "question": "方向指示器が故障していたが、手による合図ができるのでそのまま運転した。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 65,
+      "question": "雨の日の高速走行する時は、路面がすべりやすいのでタイヤの空気圧は規定より低めにする。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 67,
+      "question": "安全な車間距離とは、前の車が急に停止しても追突しない距離をいう。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 68,
+      "question": "大型自動車や中型自動車および普通自動車（三輪のものと総排気量660cc以下のもの・公安委員会が特に認めたものを除く）に積載できる荷物の高さの制限は、地上から3.8ｍ以下である。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 69,
+      "question": "転回禁止の標識のある所では、交差点を右折することもできない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 70,
+      "question": "交差点を右折や左折する時は、青信号でも徐行しなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 71,
+      "question": "追い越し禁止の場所でも、原動機付自転車は追い越してもよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 72,
+      "question": "自動車専用道路で、標識などにより速度の指定のない場合の最高速度は、一般道路での法定最高速度と同じである。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 73,
+      "question": "中型免許を受けている者は、普通自動車と大型特殊自動車を運転できる。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 74,
+      "question": "後退する時の手による合図の方法は、腕を外に出して斜め下に伸ばす。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 76,
+      "question": "大気汚染により、光化学スモッグが発生した時、または発生する恐れのある時は、車の運転は控えたほうがよい。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 77,
+      "question": "シートの前後の位置は、クラッチペダルを踏み込んだ時に、膝がわずかに曲がる状態に合わせたほうがよい。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 78,
+      "question": "70歳以上の運転者は、普通自動車を運転する時は必ず高齢者運転標識をつけなければならない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 79,
+      "question": "運転免許は、第一種運転免許・第二種運転免許・仮運転免許の3つに区分されている。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 80,
+      "question": "対向車と正面衝突しそうになった時は、道路外に空き地など安全な場所があっても道路からでてはいけない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 81,
+      "question": "仮運転免許で運転練習する時の同乗者は、その自動車を運転できる免許を受けている期間が2年以上あればよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 82,
+      "question": "内輪差とは車が右折する時に、後輪が前輪の外側を通ることをいう。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 83,
+      "question": "路面が雨にぬれ、タイヤがすり減っている時の停止距離は、乾燥した路面でタイヤの状態のよい時に比べ、2倍程度に伸びる時もある。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 85,
+      "question": "夜間高速道路で故障のためやむを得ず路側帯に入って停止した時は、停止表示器材を表示するとともに非常点滅表示灯なども付けておかなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 86,
+      "question": "進路を変更しようとする時、他に通行している車がない時は合図をしなくてもよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 87,
+      "question": "自動車を運転している時は、カーナビゲーションなどの画像を注視してはいけない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 88,
+      "question": "車に乗ってからドアを閉める時は半ドアになる可能性があるので、手前で止めずに一気に閉めるのがよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 89,
+      "question": "地震災害に関する警戒宣言が発せられ車を置いて避難する時は、できるだけ道路外の場所に移動しておくようにする。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 1,
+      "question": "高速道路を通行する時は、故障などにより停止した時に使用する停止表示器材を前もって準備しておく必要がある。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 2,
+      "question": "霧の時は、霧灯や前照灯を早めにつけ、危険防止のため必要に応じて警音器を鳴らすのがよい。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 3,
+      "question": "右折しようとした時に、その交差点に反対方向から直進や左折してくる車がある場合、自分が先に交差点に入っていてもその進行を妨げてはならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 5,
+      "question": "シートベルトは交通事故にあった場合の被害を大幅に軽減するとともに、正しい運転姿勢を保たせることにより、運転中の疲労を軽減するなど、さまざまな効果がある。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 6,
+      "question": "大型自動二輪車や普通自動二輪車を運転して交差点を右折する場合、あらかじめ道路の中央に寄り交差点の中心のすぐ外側を徐行して進行しなければならない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 8,
+      "question": "歩道や路側帯や自転車道は、道路に面した場所に出入りするために横切る場合を除いては、通行してはならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 9,
+      "question": "踏切とその端から前後10ｍ以内の場所は、駐車も停車もしてはならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 10,
+      "question": "片側が転落の恐れのある崖になっている道路で、安全な行き違いができないときは、山側の車が一時停止して道を譲るのがよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 12,
+      "question": "車は左折の時、内輪差が生じるが、右折の時は発生しない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 13,
+      "question": "普通自動車がやっと行き違いができるような幅の狭い道であっても、駐車禁止の場所でない時は、駐車することができる。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 15,
+      "question": "中央分離帯のある高速自動車国道の本線車道では、大型乗用自動車、中型乗用自動車の法定最高速度は、時速80キロメートルである。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 17,
+      "question": "雪道では、横すべりが起こり易いので、急発進、急加速、急ハンドルは絶対に避けなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 18,
+      "question": "交通事故を目撃しても、事故に関係がない時は、負傷者の救護などに協力しない方がよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 20,
+      "question": "走行中にエンジンの回転数が上がった後に故障などにより下がらなくなった時は、四輪車の場合、ギアをニュートラルにするとよい。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 22,
+      "question": "転回する時の合図の時期は、転回しようとする地点の30ｍ手前の地点に達した時である。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 23,
+      "question": "変形ハンドルの二輪車を運転する事は、運転の妨げとなり危険である。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 25,
+      "question": "前の車が自動車を追い越そうとしている時や、後ろの車が自分の車を追い越そうとしている時は、追い越しをしてはならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 26,
+      "question": "エンジンブレーキは、スロットルの戻し又はシフトダウン（低速ギアに変えること）がある。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 28,
+      "question": "自家用の普通貨物自動車の日常点検は、運転する前に1日1回点検しなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 29,
+      "question": "進路の前方に障害物がある時は、一時停止か減速して反対方向から来る車に道を譲らなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 30,
+      "question": "標識や標示などで最高速度が指定されていない道路では、普通自動車の最高速度は50km/hである。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 31,
+      "question": "高速道路の本線車道では、車両通行帯のやや左側の白い線を目安に走ると、後続の車が追い越す場合に十分な間隔がとれて安全である。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 33,
+      "question": "二輪車で走行中に急ブレーキをかけると、車輪の回転数が止まり横すべりを起こす原因となるので、ブレーキをかけるときは数回に分けて使うのがよい。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 35,
+      "question": "パーキングチケット発給設備がある時間制限駐車区間で駐車する場合、標識によって表示されている時間を超える恐れがある時は、終了直前に再度手数料を支払ってから時間を延長しなければならない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 38,
+      "question": "車から離れる時は、オートマチック車はチェンジレバーをＰに入れ、それ以外の車は平地や下り坂ではバック、上り坂ではローに入れておくとよい。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 39,
+      "question": "アンチロック・ブレーキシステムを備えた自動車で急ブレーキをかける場合には、システムを作動させるためにまずできるだけ軽く踏み、それから必要な強さまで徐々に踏み込まなければならない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 40,
+      "question": "山道でのカーブでは、対向車が中央線をはみ出して来ることがあるので、できるだけ路肩を通行するのがよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 41,
+      "question": "走行中の車はギアをニュートラルに入れると、すぐに停止するが、これをエンジンブレーキという。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 42,
+      "question": "雨の中を高速で走行すると水の膜ができ、タイヤが浮いてハンドルやブレーキがきかなくなることがあるが、これをハイドロプレーニング現象という。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 44,
+      "question": "二輪車でカーブを曲がる時は、車体を傾けると横すべりしやすいので車体を傾けないようにしてハンドルを切るとよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 45,
+      "question": "二輪車の正しい乗車姿勢は、ステップに土踏まずをのせ、足の裏が水平になるようにし、つま先が前を向き、タンクを両ひざでしめるのがよい。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 47,
+      "question": "大型乗用自動車、中型乗用自動車、普通自動車（三輪のものを除く）、総排気量125ccを超える自動二輪車の高速自動車国道での最高速度は、100㎞毎時である。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 48,
+      "question": "11人乗りのマイクロバスは、普通免許を受けている者は運転することができる。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 50,
+      "question": "大型自動車のすぐ後ろを通行している時は、前方の状況が見えないので二つの車両通行帯にまたがって通行してもよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 51,
+      "question": "交通整理が行われていない道幅が同じような交差点では、路面電車や左方からくる車がある時は、その路面電車や車の進行を妨げてはならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 53,
+      "question": "高速道路では、長い時間高速運転しても、歩行者や信号機の信号に対する注意が必要ないので、休憩時間は一般道路より少ない運転計画を立てたほうがよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 54,
+      "question": "車から離れている時は、短時間ならハンドブレーキを引けば、エンジンを止めたり、ハンドルロックしたりする必要はない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 56,
+      "question": "踏切を通行する時は、踏切の向こう側が混雑していて踏切内で身動きが取れなくなる恐れのある時は、踏切内に入ってはならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 57,
+      "question": "パーキングチケットの発給設備のある場所で発給を受けたパーキングチケットは、駐車している間は大切に保管しなければならないので、車のダッシュボードの中に入れるか、個人で携帯しなければならない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 58,
+      "question": "普通貨物自動車（三輪の普通自動車と総排気量660ccの普通自動車は除く）の積荷の高さは、地上から2.4ｍを超えてはならない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 60,
+      "question": "雨の日は窓を閉めておくと湿気で車内のガラスがくもることが多いので、側面ガラスを開けるなどしてくもりを防ぐとよい。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 61,
+      "question": "車を運転してトンネルに入る時は、トンネルの明るさに早く慣れさせるためにも、速度を落とさずそのまま通行するのがよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 63,
+      "question": "停止距離とは、ブレーキが実際にきき始めてから車が停止するまでの距離をいう。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 64,
+      "question": "車を運転中に地震災害に関する警戒宣言が発せられた時に車を置いて避難する場合は、できるだけ道路外の場所に移動しておかなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 65,
+      "question": "こような交通整理の行われていない道幅が同じような交差点では、Ａ車はＢ車の通行を妨げてはならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 66,
+      "question": "一方通行の道路で緊急自動車が近づいてきた時は、左側に寄るとかえって緊急自動車の妨げとなるようなときであっても、必ず左側に寄らなければならない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 67,
+      "question": "高速道路でやむを得ず急ブレーキをかける時は、クラッチペダルとブレーキペダルを同時に踏むのがよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 69,
+      "question": "横断歩道や自転車横断帯に近づいた時は、横断する人や自転車がいないことが明らかな場合の他は、その手前で停止できるように速度を落として進まなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 71,
+      "question": "走行中、オーバーヒートした時は、直ちに車を止めて、ラジエーターキャップを開き、水を補給したほうがよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 72,
+      "question": "二輪車を運転してカーブを通行する時は、カーブの途中ではスロットルで加減することが大切である。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 73,
+      "question": "優先道路を通行している場合を除き、交差点とその手前30ｍ以内の場所では、他の自動車や原動機付自転車を追い越すため進路を変えたり、その横を通り過ぎたりしてはならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 75,
+      "question": "走行中に後輪が右に横すべりをした時は、ハンドルを左に回し車体の向きを立て直すようにするとよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 76,
+      "question": "二輪車を運転している時は、ステップに土踏まずを乗せて、足先は不用意にブレーキを踏まないようにブレーキペダルの下に位置するのがよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 78,
+      "question": "二輪車のブレーキのかけ方には、ブレーキレバーやブレーキペダルを使って前後輪のブレーキをきかせるほかに、スロットルの戻し、またはシフトダウンによるエンジンブレーキがある。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 79,
+      "question": "交通整理の行われている交差点で警察官が「止まれ」の合図をしたが、信号が青だったので徐行して通行した。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 80,
+      "question": "災害対策基本法による通行禁止区域等においては、警察官がいない時に自衛官や消防吏員が車の移動など必要な命令を行うことができる。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 82,
+      "question": "大型貨物自動車は、登坂車線のある高速道路において、必ず登坂車線を通行しなければならない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 83,
+      "question": "長時間単調な運転を続けると眠くなることがあるので、少しでも眠くなったら安全な場所に止めて休憩をとることが大切である。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 84,
+      "question": "二輪車は、走行を安定させるためハンドルが重くなるように整備する。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 85,
+      "question": "踏切や交差点の中でエンストして、エンジンがかからない時は、マニュアル車の場合（クラッチスタートシステム装着車を除く）、非常手段としてギアをローかセカンドにいれセルモーターを使って動かす。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 86,
+      "question": "車から降りるためにドアを開ける時は、後方からの車の有無を確かめ、まず少し開けて一度止め、安全を確かめてから降りた方がよい。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 88,
+      "question": "交通事故を起こしてしまった時は、後日の示談交渉で必要なため、まず最初に保険会社に事故の報告をするとよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 89,
+      "question": "車の積載物によって外からナンバープレート、ブレーキ灯、尾灯などが見えない時は、後方に見張りの人を乗車させれば運転することができる。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 90,
+      "question": "二輪車でカーブを通行する時は、カーブの途中ではクラッチを切って常にエンジンの力をかけておき、速度はスロットルで加減しカーブの後半で前方の安全を確かめてからやや加速するのがよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 1,
+      "question": "原動機付自転車の積載装置に積むことのできる積載物の幅は、積載装置の幅に左右それぞれ0.3ｍを加えた幅までである。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 2,
+      "question": "交通事故を起こした時、後続事故の恐れがある場合でも負傷者が頭部に傷を受けている時は医師や救急車が到着するまでの間、負傷者を移動してはならない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 4,
+      "question": "人の乗り降りや5分以内の荷物の積みおろしのための停止は、駐車にならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 5,
+      "question": "エンジンブレーキは、低速ギアになるほど制動力は小さくなる。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 6,
+      "question": "二輪車の乗車姿勢は、手首を下げてハンドルを手前に引くような気持で、グリップを軽く持ち、肩の力を抜き、ひじをわずかに曲げ、背筋を伸ばして視線を先に向けるのがよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 8,
+      "question": "同一方向に進行しながら進路を変える時の合図の時期は、進路を変えようとする時の30ｍ手前の時期である。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 9,
+      "question": "運転者が疲れている時は、危険を認知し判断するのに時間がかかるので、空走距離は長くなる。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 11,
+      "question": "走行中にタイヤがパンクした時は、ハンドルをしっかりにぎり車の方向を直すことに全力を傾け、断続的にブレーキをかけるのがよい。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 12,
+      "question": "白や黄のつえを持った人やその通行に支障のある高齢者が通行している場合には、あらかじめその手前で減速し、これらの人との間に安全な間隔をあけて通行しなければならない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 14,
+      "question": "交差点や交差点付近以外の所で、緊急自動車が近づいてきた時は、道路の左側に寄って進路を譲らなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 15,
+      "question": "自動車は登録(届出)を受けて、番号標（ナンバープレート）をつけなければ運転することはできない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 16,
+      "question": "夜間、見通しの悪い交差点やカーブなどの手前では、前照灯を上向きに切り替えるなどするとよい。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 18,
+      "question": "踏切では、エンストを防止するため発進した時の低速ギアのまま一気に通過する。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 19,
+      "question": "車の速度と燃料の消費量は密接な関係があり、速度が速過ぎても遅過ぎても燃料消費量は多くなり、急発進、急ブレーキ、空ぶかしを行うと余分な燃料を消費する。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 20,
+      "question": "車の総重量が750kgを超える車をけん引している車で、けん引するための構造と装置のあるものが、車両通行帯の設けられた自動車専用道路（標識や標示で指定されている場合）を通行する時は、最も左側の車両通行帯を通行しなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 21,
+      "question": "パーキングチケット発給機から発給を受けたパーキングチケットは、車から離れている間は、携帯するのがよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 23,
+      "question": "車が60km/hでコンクリートの壁に激突した場合は、約14m（ビルの5階程度）から落ちた場合と同じ程度の衝撃力である。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 24,
+      "question": "左折する時の合図の時期は、左折しようとする地点（交差点で左折する時は、その交差点）から3秒前である。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 26,
+      "question": "交通事故を起こした時は、交通事故の状況を残しておくことが大切なので、他の交通の妨げになったとしても警察官が現場に到着するまでは、車を移動してはならない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 29,
+      "question": "高速道路で走行するとタイヤが過熱するので、タイヤの空気圧はやや低めにしておくとよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 30,
+      "question": "総排気量660cc以下の普通貨物自動車の積荷の高さは、地上から3.8mまで荷物を積むことができる。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 31,
+      "question": "赤信号の交差点で工事現場のガードマンが進むように合図したので進行した。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 32,
+      "question": "狭い坂道で行き違いができない時は、上り坂での発進が難しいので、下り坂の車が道を譲る。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 33,
+      "question": "前車を追い越そうとしたところ、前車が突然進路を変えようとして来たので、危険を避けるためやむを得ず、警音器を鳴らした。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 35,
+      "question": "最高速度50km/hと指定されている片側三車線の道路で、総排気量400ccを超える二輪車が通行する場合でも最高速度50km/hを超えて走行してはならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 36,
+      "question": "長距離運転する時は、あらかじめ運転計画を立ててしまうと計画にとらわれがちになるので、計画は立てずにその場に応じて運転するとよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 38,
+      "question": "二輪車で走行中にエンジンの回転が上がった後、故障などにより下がらなくなった時は、点火スイッチを切ってエンジンの回転を止めることが大切である。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 39,
+      "question": "児童などが乗り降りするために止まっている通学通園バスのそばを通る時は、徐行して安全を確かめなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 41,
+      "question": "追い越しをする時は、右側を通行しなければならないが、前車が右折のため道路の中央によって通行している場合（一方通行の場合は右側）は、後車は前車の左側を通行しなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 42,
+      "question": "車を運転中、大地震が発生した場合は、急ハンドル、急ブレーキを使い、できるだけ早く道路の左側に停止させることが必要である。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 44,
+      "question": "高速道路の本線車道を走行中、減速しなければならない場合は、一段低いギアに落としエンジンブレーキを使うとともにフットブレーキを数回に分けて使うのがよい。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 45,
+      "question": "後輪が左に横すべりをはじめた時は、ブレーキを使わずアクセルをゆるめて同時にハンドルを右に切るとよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 47,
+      "question": "横断歩道、自転車横断帯とその端から前後10m以内の場所は、駐車も停車もしてはならない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 48,
+      "question": "二輪車でカーブを曲がる時は、ハンドルを切るのではなく車体を傾ける事によって自然に曲がるような要領で行うのがよい。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 50,
+      "question": "信号機の設置されている踏切で信号機の表示する青信号に従って通過する時は、安全を確認すれば一時停止の必要はない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 51,
+      "question": "交差点で左折しようとする時は、あらかじめその手前から道路の左端に寄り、交差点の側端に沿って進行すれば徐行しなくてもよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 53,
+      "question": "交通整理の行われていない横断歩道の手前30mは、原動機付自転車や自動車を追い越してはならないが、追い抜きはしてもよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 54,
+      "question": "履物は運転操作には関係ないので、車を運転する前に注意をはらう必要はない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 56,
+      "question": "上り坂では、クラッチ操作で発進しようとする時、失敗して後退することがあるので四輪車の場合は、ハンドブレーキを使用するとよい。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 57,
+      "question": "交通整理の行われていない交差点を右左折する時でも徐行しなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 59,
+      "question": "道路に面した場所へ出入りするため、歩道や路側帯を横切る場合でも歩行者の通行を妨げる恐れがなければ、その直前で一時停止する必要はない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 60,
+      "question": "車は濡れたアスファルト路面を走る時などは、摩擦抵抗は小さくなり、制動距離が長くなる。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 62,
+      "question": "二輪車は、体で安定を保ちながら走り、停止すると安定を失うという構造上の特性をもっており、四輪車とは違った運転技術が必要である。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 63,
+      "question": "中央分離帯のある高速自動車国道の本線車道では、大型乗用自動車、中型乗用自動車の法定最高速度は、時速80キロメートルである。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 65,
+      "question": "高速道路の本線車道とは、通常高速走行する部分をいうが、加速車線、減速車線も含まれる。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 66,
+      "question": "タイヤの溝の深さが十分であるかどうかは、ウェア・インジケータで点検する。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 67,
+      "question": "高速道路でやむを得ず駐停車する場合は、他の車の通行の妨げにならないように十分な幅のある路肩や路側帯に駐停車しなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 68,
+      "question": "衝撃力は、速度と重量に応じて大きくなり、また、固い物にぶつかった時のように、衝撃の作用が短時間に行われる程、その力は大きくなる。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 69,
+      "question": "高速自動車国道の本線車道が、道路の構造上往復の方向別に分離されていない区間での最高速度は一般道路と同じである。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 71,
+      "question": "原動機付自転車は二つの車両通行帯がある信号機などにより交通整理の行われている交差点では、二段階の方法により右折をしなければならない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 72,
+      "question": "二輪車は機動性に富んでおり、交通渋滞の時は車の間をぬって走ったり、路側帯を走れるという利点がある。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 74,
+      "question": "大型二輪免許を受けている者は、ミニカーを運転することができる。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 75,
+      "question": "進路の前方に障害物がある所では、あらかじめ一時停止か減速して反対方向からの車に道を譲るのがよい。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 76,
+      "question": "一方通行の道路では、道路の中央から右にはみ出して通行することができる。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 77,
+      "question": "上り坂の頂上付近は、見通しが悪いので徐行しなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 79,
+      "question": "標識などによって駐車が禁止されていない道路であっても、車の右側の道路上に3.5m以上の余地がなければ駐車はできない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 80,
+      "question": "ハイドロ・プレーニング現象とは、長い下り坂でフットブレーキを頻繁に使い過ぎた時に急にブレーキがきかなくなることをいう。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 82,
+      "question": "故障車をロープやクレーンでけん引する時は、けん引免許はなくてもよい。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 83,
+      "question": "運転免許は第一種運転免許、第二種運転免許及び、仮運転免許の三種に区分される。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 84,
+      "question": "緊急自動車を運転する時は、その自動車の運転に必要な運転免許の他に、運転経験年数や年齢について特別の資格が必要である。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 85,
+      "question": "車両通行帯のあるトンネルの中では、追い越しをすることができる。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 87,
+      "question": "二輪車でブレーキをかける時は、車体を垂直に保ちハンドルを切らない状態でエンジンブレーキをきかせながら前後輪のブレーキを同時にかけるとよい。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 88,
+      "question": "他の車両を追い越す時は、たとえ瞬間的であっても指定された最高速度を超えて運転してはならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 89,
+      "question": "車を運転する時は、絶えず前方に注意するとともに、ミラーなどにより周囲の交通の状況に目を配ることが大切であり、一点だけを注視した運転は避けなければならない。",
+      "correct_answer": true
+    }
+  ]
+}
