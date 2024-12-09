@@ -1159,6 +1159,456 @@
       "question_id": 89,
       "question": "車を運転する時は、絶えず前方に注意するとともに、ミラーなどにより周囲の交通の状況に目を配ることが大切であり、一点だけを注視した運転は避けなければならない。",
       "correct_answer": true
+    },
+    {
+      "question_id": 1,
+      "question": "停車とは駐車にあたらない短時間の停止をいう。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 2,
+      "question": "前車を追い越す時、交通量の少ない場合は前車の左側を通行してもよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 3,
+      "question": "荷物の積み下ろしのため、貨物自動車の荷台に必要最小限度の人を乗せて車を走らせた。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 4,
+      "question": "この標識のある道路では駐車はできないが、荷物の積み下ろしのための5分以内の停止はできる。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 5,
+      "question": "運転免許停止期間中に自動車などを運転すると、無免許運転になる。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 6,
+      "question": "大型特殊免許か普通免許、準中型免許を受けて通算2年以上経過している者は中型免許を受験することができる。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 7,
+      "question": "消音器（マフラー）が壊れて大きな音がしていたので、交通量の少ない道路を選んで運転した。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 8,
+      "question": "この標識は、「追い越し禁止」を表している。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 9,
+      "question": "遠心力の大きさは、積荷が重いほど小さくなる。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 10,
+      "question": "警察官が信号機の信号と異なる手信号をしている場合は、警察官の手信号に従う。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 11,
+      "question": "一方通行の道路から交差点を右折する時は、あらかじめ道路の中央により交差点の中心の内側を徐行する。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 12,
+      "question": "この標識は、大型貨物自動車と特定中型貨物自動車、大型特殊自動車の通行を禁止している。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 13,
+      "question": "二輪車の運転手が、左腕のひじを垂直に上に曲げたのは、右に方向指示器を操作したのと同じ意味である。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 14,
+      "question": "対向車に進路を譲ってもらったので、挨拶がわりに警音器を鳴らした。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 15,
+      "question": "ハンドブレーキのレバーをいっぱいに引いた時、引きしろは多いほどよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 16,
+      "question": "この標識のある道路では、乗車定員11人以上の乗用自動車は通行できない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 17,
+      "question": "二輪車で走行中に、エンジンの回転が上がった後、故障などにより下がらなくなった時は、点火スイッチをきりブレーキを使って停車させる。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 18,
+      "question": "夜間、初心運転者は運転装置がよく見えるように室内灯をつけて運転するのがよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 19,
+      "question": "この標識は、車の通行が禁止されていることを表している。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 20,
+      "question": "自家用の普通乗用自動車は、1年ごとに定期点検を受け必要であれば整備する。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 21,
+      "question": "道路工事の区域の端から5m以内の場所で、人の乗り降りのため停止した。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 22,
+      "question": "大型免許又は中型免許を受けようとする者は、普通免許の経験が2年以上必要である。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 23,
+      "question": "どんなに軽微な交通事故であっても、必ず警察官に届けなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 24,
+      "question": "夜間、前車の直後を進行する時は、前照灯を減光するか下向きにしなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 25,
+      "question": "この路側帯は、車の駐停車はできないが、軽車両の通行はできる。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 26,
+      "question": "同一方向に3つ以上の車両通行帯のある道路では、最も右側の車両通行帯を追い越しのためにあけておけば、それ以外の車両通行帯ならどの車両通行帯を通行してもよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 27,
+      "question": "高速道路で雨の中を走行するとハイドロプレーニング現象がおきることがあるので、速度を落として通行する。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 28,
+      "question": "この警察官の手信号は、矢印の交通に対しては、青色の信号と同じ意味を表している。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 29,
+      "question": "荷物の積み降ろしで運転者がすぐに運転できる状態であっても、車の右側の道路上に3.5m以上の余地が取れない場所では駐車できない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 30,
+      "question": "近くに交差点のない道路で、緊急自動車が近づいてきたので、道路の左側に寄り一時停止した。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 31,
+      "question": "この標識のある道路では、普通自動車は時速50キロメートルを超える速度で走行してはならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 32,
+      "question": "初心運転者標識や高齢運転者標識をつけている自動車を追い越してはいけない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 33,
+      "question": "雨の日はスリップしやすいので、ブレーキペダルは強く踏むほうがよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 34,
+      "question": "トンネルは、車両通行帯の有る無しにかかわらず、追い越しは禁止されている。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 35,
+      "question": "この信号機の信号に対面する小型特殊自動車は、矢印の方向に進むことができる。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 36,
+      "question": "前方の信号が赤色であっても、黄色の矢印信号が同時に表示されている時には、路面電車は矢印の方向に進行できる。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 37,
+      "question": "自動車や原動機付自転車を運転している時は携帯電話を通話のため使用してはいけない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 38,
+      "question": "高速道路で加速車線から本線車道に入ろうとしたが、本線車道が混雑していたので路側帯を通行した。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 39,
+      "question": "この標識は、「歩行者用道路」を表している。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 40,
+      "question": "二輪車で停止しようとする時は、前輪がロックすると危険なので、後輪ブレーキだけをかけるほうがよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 41,
+      "question": "踏切を通過しようとする時は、停止線がない時でもその直前で一時停止しなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 42,
+      "question": "盲導犬を連れた人が歩いていたので、注意をうながすために警音器を鳴らして徐行した。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 43,
+      "question": "この標識のある交差点を右折する原動機付自転車は、二段階の方法により右折する。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 44,
+      "question": "免許の有効期間が過ぎても、その後６ヶ月以内の運転は無免許運転にはならない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 45,
+      "question": "道路の曲がり角付近や上り坂の頂上付近では追い越しができないが、前車が決められた速度よりゆっくり走っている時は追い越しをしてもよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 46,
+      "question": "交差点で左折する時は自転車などの巻き込みを防ぐため、できるだけ道路の左端から離れて曲がる。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 47,
+      "question": "児童や幼児が乗り降りのため止まっている通学通園バスの側を通る時は、徐行して安全を確かめなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 48,
+      "question": "この標示の部分は、前方の交通が混雑しているためその中に止まってしまう恐れのある時は、中に入ってはいけない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 49,
+      "question": "中央線は、必ず道路の中央にあるとは限らない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 50,
+      "question": "右折や転回の合図は、その行為をしようとする地点から30m手前で行う。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 51,
+      "question": "横断歩道のない交差点やその付近を歩行者が横断している時は、その歩行者の通行を妨げてはならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 52,
+      "question": "道路の左端などにこの標識がある時は、車は前方の信号が赤や黄色の灯火であっても、歩行者や他の交通に注意して左折することができる。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 53,
+      "question": "追い越し禁止の場所では、自動車と原動機付自転車を追い越してはいけない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 54,
+      "question": "明るさが急に変わると視力が一時的に低下するので、トンネルに入る前に速度を落とした。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 55,
+      "question": "進路の前方に障害物がある時は、あらかじめ一時停止か減速して反対方向の車に道を譲る。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 56,
+      "question": "第一種運転免許の種類は、大型免許、普通免許、大型自動二輪免許、普通自動二輪免許の4種である。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 57,
+      "question": "自動車専用道路で標識などによる最高速度の指定がないところを普通自動車で、時速80kmで走行した。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 58,
+      "question": "交差点で右折や左折する時、ほかに通行している歩行者や車がいない場合は徐行しなくてもよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 59,
+      "question": "中央線が黄色の線で区画されている道路では、追い越しのため道路の右側部分にはみ出して通行してはならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 60,
+      "question": "普通二輪免許では、総排気量400ccの二輪の自動車を運転することができる。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 61,
+      "question": "自家用の普通自動車の日常点検は、その車の走行距離や運行時の状態から判断した適切な時期に行う。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 62,
+      "question": "この標示のある道路で左端の通行帯を通行している時、通学通園バスが後方から近づいてきたが、路線バスではないのでそのまま通行した。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 63,
+      "question": "小型特殊免許では、原動機付自転車を運転することができる。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 64,
+      "question": "徐行や停止する時の合図の時期は、その行為をしようとする時に行う。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 65,
+      "question": "普通仮免許を受けていれば、練習のため、原動機付自転車を運転することができる。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 66,
+      "question": "シートの前後の位置は、クラッチペダルを踏み込んだ時、ひざが伸びきった状態に合わせるのがよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 67,
+      "question": "この検査標章は、次回の点検の年月を表している。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 68,
+      "question": "乗車定員5人の自動車に、運転者の他に12歳未満の子供を6人乗せることができる。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 69,
+      "question": "信号機のある踏切で信号が青色の時は、安全を確認すれば一時停止しないで通過することができる。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 70,
+      "question": "大型二輪免許や普通二輪免許を受けられる年齢は16歳以上である。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 71,
+      "question": "乗車定員15人の乗用車でも、運転者を含めて10人以下の人数を乗せるときは普通免許で運転することができる。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 72,
+      "question": "この信号機の交差点では、自動車は右折することができない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 73,
+      "question": "制動距離は、ブレーキのかけ方や速度によって変わるが、路面の状態は影響しない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 74,
+      "question": "交差点を通行中、緊急自動車が接近してきた時は、すぐにその場で停止する。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 75,
+      "question": "白の二本の実線で表示されている路側帯は、「駐停車禁止路側帯」である。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 76,
+      "question": "横断歩道に近づいた時、横断している歩行者がいたので徐行しながら通過した。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 77,
+      "question": "夜間自分の車と対向車のライトで中央付近の歩行者が見えなくなることがあるので、横断歩道には特に注意をする。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 78,
+      "question": "二輪車の運転は、体で安定を保ちながら走らなければならないので、四輪車とは違った運転技術が必要である。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 79,
+      "question": "この標識は、一方通行の出口にある車両進入禁止の標識である。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 80,
+      "question": "走行中、後輪が左の横すべりをはじめたので、ハンドルを右に切りながらブレーキをかけた。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 81,
+      "question": "歩行者用道路を、自動車は通行してはいけないが、原動機付自転車や軽車両は通行できる。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 82,
+      "question": "高速道路で本線車道を通行している前車を追い越すため、登坂車線を通行した。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 83,
+      "question": "たとえ少量でも酒気を帯びている時や過労の時は、車を運転してはいけない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 84,
+      "question": "この標示は、その先に安全地帯か障害物があることを表している。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 85,
+      "question": "右折する時は、交差点の直前で道路の中央に寄らなければならない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 86,
+      "question": "6歳未満の幼児を自動車に乗せる時は、チャイルドシートを使用して後部座席に乗せるほうがよい。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 87,
+      "question": "片側が転落の恐れのあるがけになっている狭い道では、がけ側の車が停止して待つ。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 88,
+      "question": "普通二輪免許を取得して1年を経過すれば、大型二輪免許を取得してすぐに大型自動二輪車の二人乗りができる。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 89,
+      "question": "普通自動二輪車のエンジンをかけたまま、押して歩道を通行した。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 90,
+      "question": "速度の出し過ぎや荷物の積み過ぎは、交通公害の原因にもなる。",
+      "correct_answer": true
     }
   ]
 }
