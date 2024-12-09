@@ -1609,6 +1609,456 @@
       "question_id": 90,
       "question": "速度の出し過ぎや荷物の積み過ぎは、交通公害の原因にもなる。",
       "correct_answer": true
+    },
+    {
+      "question_id": 1,
+      "question": "普通自動二輪免許を受けて1年を経過していない者でも大型自動二輪免許を受けていれば二人乗りをしてもよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 2,
+      "question": "歩道を横切る時は、歩行者の妨げにならないようにしなければならないが、歩行者がいない場合には、その直前で徐行しなければならない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 3,
+      "question": "狭い坂道で行き違いができない時は、下りの車は加速がつくので、上りの車が道を譲る。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 4,
+      "question": "この標識、標示のある所では、駐車はできないが停車することができる。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 5,
+      "question": "60km/hで走行中の普通自動車の停止距離は、おおむね22mである。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 6,
+      "question": "右左折などの行為が終わった時の合図を止める時期は、右左折の行為が終わった3秒後である。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 7,
+      "question": "この標識は、矢印が示す方向への反対方向への車両の通行を禁止している。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 8,
+      "question": "停止しようとする時の合図の時期は停止しようとする時である。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 9,
+      "question": "免許証の停止処分中の者がその期間内に運転すると無免許運転になる。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 10,
+      "question": "空走距離とは、運転者が危険を感じてからブレーキが実際にきき始めるまでに車が走る距離である。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 11,
+      "question": "この標識は、原動機付自転車のエンジンを止めて歩く者の通行は禁止していない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 12,
+      "question": "二輪車でエンジンブレーキをかける時、ギアをいきなり高速ギアから低速ギアに入れるとエンジンを傷めたり、転倒したりする恐れがあるので、順序よくシフトダウンをしなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 13,
+      "question": "総排気量660cc以下の普通自動車の荷台には、地上から2.5mの高さまで荷物を積むことができる。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 14,
+      "question": "高速道路を通行する時は、タイヤが熱をもち空気が膨張するので、タイヤの空気圧はやや低めにしておく。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 15,
+      "question": "エンジンブレーキは、高速ギアになるほど制動力は小さくなり、停止距離は長くなる。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 16,
+      "question": "このような路側帯では、駐車も停車もしてはならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 17,
+      "question": "歩道や路側帯のない道路に駐車する時は、左側に0.75m以上の余地をあけなければならない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 18,
+      "question": "二輪車で砂利道やぬかるみを通行する時は、トップギアで惰力をつけて乗り切るのがよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 19,
+      "question": "見通しの悪い踏切を通過する時は、踏切の直前（停止線がある時はその直前）で一時停止するよりも、目で確認できるところまで徐々に踏切内に入り確認するのがよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 20,
+      "question": "この警察官の灯火による手信号は、矢印の交通に対して信号機の黄色信号の意味を表している。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 21,
+      "question": "安全地帯のない停留所で路面電車から人が乗り降りしている時でも、徐行すれば路面電車の側方を通過してよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 22,
+      "question": "勾配の急な下り坂は、徐行して通行しなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 23,
+      "question": "夜間、大型車の後ろについて運転中、眠気を感じたら、前車のブレーキ灯を見ながら運転すると安全である。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 24,
+      "question": "この標識は、高速自動車国道または、自動車専用道路を表している。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 25,
+      "question": "夜間見通しの悪い交差点やカーブの手前では、他の車や歩行者に接近を知らせるために前照灯を上向きに切り替えたり、点滅をしたりすることは危険である。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 26,
+      "question": "タイヤの空気圧は、接地部のたわみの状態を確かめ、不足していないかどうか点検するとよい。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 27,
+      "question": "交通事故を起こしても物の損壊だけの事故で、現場で示談がついた時は、警察官に報告しなくてもよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 28,
+      "question": "この信号機に対する車は、安全確認すれば停止位置で一時停止しなくてもよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 29,
+      "question": "横断歩道に近づいた時に歩行者が横断していたり、歩行者が横断しようとしている場合は、歩行者との間に安全な間隔をあけるか、徐行しなければならない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 30,
+      "question": "走行中に、エンジンの回転数が上がった後、故障などにより下がらなくなった時は、四輪車の場合はギアをニュートラルにいれて車輪にエンジンの力がかからないようにする。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 31,
+      "question": "やむを得ず一般車両で故障車をロープでけん引する時は、故障車との間に安全な間隔（5m以内）を保ちながら確実につなぎ、30cm平方以上の白い布をロープに取り付けなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 32,
+      "question": "高速道路を走行中は、左側の白い線を目安にして車両通行帯のやや左寄りを通行すると、後方の車が追い越す場合に十分な間隔がとれて、接触事故の防止に役立つ。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 33,
+      "question": "この標示は「自転車横断帯」を表している。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 34,
+      "question": "左右の見通しのきかない交差点、曲がり角、上り坂の頂上付近では、必ず警音器を鳴らさなければならない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 35,
+      "question": "高速自動車国道の本線車道における法定最低速度は、自動車の車種に関係なく60km/h毎時である。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 36,
+      "question": "普通免許を有する者は、小型特殊自動車と原動機付自転車を運転することができる。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 37,
+      "question": "高速道路の本線車道からでる時、減速車線がある所ではその車線を通り、感覚に頼らず速度計を確かめながら速度を落とすのがよい。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 38,
+      "question": "このように左側部分の幅が6mの道路では、追い越しをする時に右側部分にはみ出して通行してもよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 39,
+      "question": "標識も標示もない一般道路での普通貨物自動車と大型自動車の最高速度は60キロメートル毎時である。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 40,
+      "question": "消防用防火水そうの取り入れ口から5m以内の場所は、駐車も停車もできない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 41,
+      "question": "自動車の排出ガス中には、一酸化炭素、窒素酸化物など人体に有害な物質が含まれているので、光化学スモッグが発生した時や発生する恐れがある時は、自動車の使用を控えた方がよい。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 42,
+      "question": "長い下り坂では、フットブレーキを頻繁に使い過ぎるとブレーキがきかなくなることがあるので低速ギアを用い、エンジンブレーキを活用するのがよい。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 43,
+      "question": "この標識は、この先の道路が滑りやすいことを表している。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 44,
+      "question": "仮免許練習標識をつけている車への幅寄せや、割り込みは禁じられているが、初心運転者マークをつけている車に対しては禁じられていない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 45,
+      "question": "このような路側帯で歩行者が通行していない場合は、自動車は通行することができる。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 46,
+      "question": "道路外に出るため右折しようとする時は、あらかじめその手前からできるだけ道路の中央（一方通行の道路では右端）に寄って徐行しなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 47,
+      "question": "二輪車で幅の広い道路を右折しようとする時は、十分手前から徐々に右側の車線に移るようにしなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 48,
+      "question": "二輪車の点検は、ブレーキのあそびやききは十分か、ハンドルは重くないか、車輪のがたやゆがみはないか、ワイヤーなど引っ掛かっていないかどうかなど点検しなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 49,
+      "question": "この標識が表示されたところでも、道路外の施設または、場所に入るための左折を伴う横断は禁止されていない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 50,
+      "question": "ぬかるみなどで車輪が空回りする時は、エンジンの回転を上げ一気に出るようにするとよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 51,
+      "question": "前方の自転車を追い越そうとしたが、左右にふらついており、そのまま追い越すと衝突する危険が予測されたので危険を避けるためにやむを得ず警音器を鳴らした。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 52,
+      "question": "車などが物に衝突した時に起こる衝撃力は、速度と重量に応じて大きくなり、また硬いものにぶつかる時のように衝撃の作用が短時間で行われる程その力は大きくなる。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 53,
+      "question": "車は濡れたアスファルト路面を走る時などは、摩擦抵抗が大きくなり制動距離は短くなる。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 54,
+      "question": "この標識のある場所では、自動車は原動機付自転車を追い越すため進路を変えたりその横を通り過ぎてはならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 55,
+      "question": "制動距離や遠心力などは、いずれも速度に比例して大きくなり、速度が2倍になれば制動距離やカーブでの車の横すべりや転倒させようとする力は3倍になる。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 56,
+      "question": "子供は突然路上に飛び出したり、無理に道路を横断しようとするので、そばを通る時は特に注意をしなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 57,
+      "question": "この標識のある車両通行帯では、原動機付自転車は通行してはならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 58,
+      "question": "自動車の燃料消費量は、一定の距離を走るのであれば、速度が低すぎても高すぎても変わることはない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 59,
+      "question": "交差点以外で横断歩道、自転車横断帯、踏切もない所で警察官が手信号や灯火によって黄色または赤信号を表示している時、車は警察官の2m手前で停止するのがよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 60,
+      "question": "大型自動二輪免許を受けて一年を経過していない者であっても、普通自動二輪車であれば二人乗りをすることができる。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 61,
+      "question": "この標識のある交差点を右折する原動機付自転車は交差点の向こう側までまっすぐ進み、その地点で止まるまでの間は、右折の合図を行ってはならない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 62,
+      "question": "二輪車であっても自賠責保険や責任共済の他に一般の任意保険に加入する事が望ましい。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 63,
+      "question": "自動車を運転中、大地震が発生した場合は、急ハンドル・急ブレーキを避けるなど、できるだけ安全な方法で道路の左側に停止させることが必要である。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 64,
+      "question": "この標識のある交差点を右折する原動機付自転車は、交差点の中心のすぐ内側を徐行して進行しなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 65,
+      "question": "走行中にタイヤがパンクした時は、思わぬ方向に進むと危険なので、ハンドルをしっかりと握り、急ブレーキかけて車を早く停止させることが大切である。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 66,
+      "question": "この標識のある場所で停止線がない時は、標識の直前で停止するのがよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 67,
+      "question": "下り坂では加速がつき停止距離が長くなるので、車間距離は広くあけたほうがよい。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 68,
+      "question": "高速道路で故障などにより運転することができなくなった時は、レッカー車を要請した後、車内で待つようにしたほうが最も安全である。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 69,
+      "question": "この標識は近くに「学校・幼稚園・保育所などあり」を表している。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 70,
+      "question": "二輪車でカーブを通行する時は、車体を傾けると自然に曲がるので、手前の直線部分であらかじめ速度を落とさなくてもよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 71,
+      "question": "対向車と正面衝突のおそれが生じた時は、警音器とブレーキを同時に使い、できる限り左側によけ衝突の寸前まであきらめないで少しでもブレーキとハンドルでかわすのがよい。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 72,
+      "question": "バスの停留所から30m以内は、追い越しをしてはならない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 73,
+      "question": "二輪車も四輪車も、エンジンの力を利用して走る点は同じであるから、運転技術も同じである。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 74,
+      "question": "曲がり角やカーブでは、対向車が道路の中央からはみ出してくる事を予測して、運転することが必要である。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 75,
+      "question": "この標示は、駐車も停車もしてはならない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 76,
+      "question": "大型特殊免許を受けようとする者は、普通免許の経験が3年以上必要である。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 77,
+      "question": "自転車横断帯に近づいた時は、自転車がいないことが明らかな場合の他は、その手前で停止できるように速度を落として進まなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 78,
+      "question": "走行中、後輪が横滑りを始めた時は、急ブレーキをかけて停止させたほうがよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 79,
+      "question": "この標識のある交差点では、原動機付自転車は小回りの右折方法によって右折しなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 80,
+      "question": "自動車を乗り降りする時は周囲の状況、とくに後方から車の有無を確認し、交通量の多い所では左側のドアから乗り降りしたほうがよい。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 81,
+      "question": "路側帯を通行している自転車の側方を通過する時は、その自転車との間に安全な間隔をあけたり、徐行したりする必要はない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 82,
+      "question": "タイヤの空気圧は、規定圧力の半分くらいにすればブレーキがよくきき、タイヤも長持ちする。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 83,
+      "question": "この標識は、高速道路やトンネルのきり通しの出口などで、横風のためハンドルを取られないように注意を呼び掛けている。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 84,
+      "question": "交差点の手前で、緊急自動車のサイレンに気づいたがそのまま交差点に入り、すぐ後ろに緊急自動車がいたのでその場で一時停止した。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 85,
+      "question": "交通事故が起きた時は、負傷者の救護や警察官に必要な報告をするのは、その事故の責任の程度が重い運転者である。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 86,
+      "question": "後退する時の合図の時期は、後退しようとする時の約3秒前である。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 87,
+      "question": "左右の見通しがきかない交差点は、優先道路を通行しているときでも徐行しなければならない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 88,
+      "question": "大型特殊免許か普通免許、準中型免許を受けて通算2年以上経過している者は中型免許を受験することができる。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 89,
+      "question": "第一種運転免許には、原動機付自転車、小型特殊自動車も含まれる。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 90,
+      "question": "速度規制のない一般道路における大型貨物自動車の最高速度は50km毎時である。",
+      "correct_answer": false
     }
   ]
 }
