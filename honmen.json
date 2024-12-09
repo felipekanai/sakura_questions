@@ -2059,6 +2059,460 @@
       "question_id": 90,
       "question": "速度規制のない一般道路における大型貨物自動車の最高速度は50km毎時である。",
       "correct_answer": false
+    },
+    {
+      "question_id": 1,
+      "question": "二輪車は、機動性に富んでいるので車の間をぬって走行したり、ジグザグ運転しても危険がない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 2,
+      "question": "交差点の手前から30ｍ以内の場所であっても、一方通行の道路であれば、追い越しをしてもよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 3,
+      "question": "この標識は、車両と路面電車だけでなく、歩行者も通行できないことを表している。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 4,
+      "question": "前の車が踏切や交差点などで停止している時は、その前に割り込んだり、その前を横切ったりしてはならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 5,
+      "question": "自動車の前面ガラスに貼られた検査標章と数字は次の検査の時期を表している。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 6,
+      "question": "このように警察官が腕を水平に上げている時、矢印方向の交通は信号機の青色の灯火と同じ意味を表している。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 7,
+      "question": "二輪車の積載装置に積むことのできる荷物の積載制限の長さは、積載装置の長さまでである。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 8,
+      "question": "駐車禁止場所に駐車すると、駐車違反として放置車両確認標章を取り付けられる事があるが、この場合、所有者または使用者は車の駐車方法を変更するか、または車を移動してその旨を警察に報告しなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 9,
+      "question": "この標識は「合流の交差点あり」であることを表している。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 10,
+      "question": "前方の自転車を追い抜こうとしたが、左右にふらついており、そのまま抜くと衝突する危険が予測されたので、危険を避けるため、やむを得ず警音器を鳴らした。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 11,
+      "question": "制動距離とは、運転者が危険を感じてからブレーキを踏み、ブレーキが実際にきき始めるまでの間に車が走る距離をいう。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 12,
+      "question": "二輪車を選ぶ時は、8の字に押して歩くことができるかどうか、平地でサイドスタンドを楽にかけることができるか確めることが大切である。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 13,
+      "question": "この標識は、自動車、原動機付自転車、軽車両およびトローリーバスは進入できないことを表している。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 14,
+      "question": "横断歩道のない交差点やその付近を歩行者が通行している時は、その通行を妨げないようにしなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 15,
+      "question": "この標識は、大型貨物自動車と特定中型貨物自動車、大型特殊自動車の通行を禁止している。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 16,
+      "question": "中型免許を受けている者は、普通自動車と大型特殊自動車を運転できる。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 17,
+      "question": "高速道路で緊急車両が本線車道へ入ろうとしている時や、本線車道から出ようとしている時は、その通行を妨げてはならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 18,
+      "question": "転回する時の合図は、転回しようとする3秒前である。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 19,
+      "question": "この標示は「立ち入り禁止部分」を表している。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 20,
+      "question": "やむを得ず一般道路で故障車をロープでけん引する時は、故障車との間に安全な間隔（5ｍ以内）を保ちながら丈夫なロープなどで確実につなぎ、ロープに赤い布30ｃｍ平方以上を取り付けなければならない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 21,
+      "question": "交差点で右折する場合、自分の車が先に交差点に入っていても、反対方向からの直進車や左折車の通行を妨げてはならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 22,
+      "question": "この図で横断者が横断歩道の中央まで渡ってしまっている場合でも、Ｂの二輪車は停止しているA車の側方を通って前方に出る前には一時停止をしなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 23,
+      "question": "高速になると視力は低下し、特に近くのものが見えにくくなるので注意しなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 24,
+      "question": "走行中の車はクラッチを切ると走り続けようとする性質がなくなるので、ブレーキをかけるとすぐに止まってしまう。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 25,
+      "question": "この標識は、この先に「学童・園児のための横断歩道」があることを表している。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 26,
+      "question": "昼間でもトンネルの中や濃い霧の中で50ｍ（高速道路においては200ｍ）先が見えないような場所では前照灯をつけなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 27,
+      "question": "二輪車で高速走行中は、急ブレーキをかけると転倒する危険性があるので、ブレーキをかける時は一段低いギアに落としてエンジンブレーキを使うとともに、ブレーキを数回に分けてかけるとよい。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 28,
+      "question": "乗り降りのため停車している通学通園バスの側を通行する時は、減速して通行すれば徐行して安全を確かめる必要はない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 29,
+      "question": "この標識のある場所で停止線がない時は、標識の直前で停止しなければならない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 30,
+      "question": "初心者マークをつけた普通自動車が通行していたが、先を急いでいたのでその車の前に割り込んだ。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 31,
+      "question": "下り坂などでブレーキがきかなくなった場合は、ブレーキペダルを数回に分けて踏み、手早く減速チェンジをしてエンジンブレーキをきかせ、加速をおさえてからハンドブレーキを引くのがよい。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 32,
+      "question": "この標識のある場所を通行する時は、必ず警音器を鳴らさなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 33,
+      "question": "止まっている車の側を通行する時は、車の影から人が飛び出してくることがあるので、特に注意して運転するのがよい。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 34,
+      "question": "夜間、二輪車に乗る時は、反射性の衣服または、反射材のついた乗車用ヘルメットを着用したほうがよい。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 35,
+      "question": "原動機付自転車は、自転車道を通行してもよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 36,
+      "question": "この標示の路側帯は、駐車も停車も禁止している。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 37,
+      "question": "疲れている時や病気の時、心配事がある時などは、注意力が散漫になったり、判断力が衰えたりするので、このような時は、運転を控えるか体調を整えてから運転するのがよい。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 38,
+      "question": "総排気量660cc以下の普通自動車や125ccを超える自動二輪車の高速自動車国道の本線車道での最高速度は80km/hである。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 39,
+      "question": "道路の曲がり角付近では、徐行しなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 40,
+      "question": "自転車横断帯に近づいた時、自転車がいないことが明らかな場合であっても徐行しなければならない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 41,
+      "question": "交通整理の行われていない左右の見通しのきかない交差点では、徐行しなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 42,
+      "question": "この標識は矢印方向以外の通行を禁止することを表している。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 43,
+      "question": "短い区間を運転する時でも、自分の運転技能と車の性能にあった運転計画を立てることが必要である。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 44,
+      "question": "大型自動車や普通自動車に積むことのできる積荷の幅は、その車の幅までである。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 45,
+      "question": "交差点を右折しようとしたところ対向の直進車が見えたが、その直進車の通行の妨げにならない十分な距離があったので先に右折した。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 46,
+      "question": "この二つの標識の意味は同じである。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 47,
+      "question": "上り坂でオートマチック車を駐車する時は、チェンジレバーをＬ（ロー）に入れておくのがよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 48,
+      "question": "信号機は時差式信号など、特定方向の信号が赤に変わる時間をずらしてあるものもあるので、運転者は対面する信号を見なければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 49,
+      "question": "この標識は「自転車専用道路」を表している。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 50,
+      "question": "踏切内で動か,
+    },
+    {
+      "question_id": 50,
+      "question": "踏切内で動かなくなる恐れがなく、前車に続いて通過できる場合には、その直前で安全確認をすれば一時停止しなくてもよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 51,
+      "question": "大型特殊免許か普通免許、準中型免許を受けて通算2年以上経過している者は中型免許を受験することができる。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 52,
+      "question": "この標識標示のある所では、他の車の正常な通行を妨げる恐れのない時でも転回することはできない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 53,
+      "question": "高速自動車国道の本線車道で、道路の構造上往復の方向別に分離されていない区間では、標識などにより最高速度が指定されていなければ、一般道路と同じである。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 54,
+      "question": "この標識は「左折可」を表している。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 55,
+      "question": "安全地帯の側を通る時は、歩行者がいないことが明らかな場合であっても徐行しなければならない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 56,
+      "question": "二輪車は自賠責保険か責任共済保険が切れていても任意保険に加入していれば運転することができる。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 57,
+      "question": "大型貨物自動車、特定中型貨物自動車の日常点検は、運転する前に1日1回点検しなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 58,
+      "question": "この手による合図は左折である。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 59,
+      "question": "高速道路では路面が乾燥してタイヤが新しい場合は、時速100kmでは約100m、時速80kmでは約80mの車間距離をとる必要がある。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 60,
+      "question": "路線バスの停留所の表示板があるところから10m以内の場所は、運行時間中に限り駐車も停車もしてはならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 61,
+      "question": "横断歩道の左側に歩行者が立ち止まり、接近してくる自分の車を見ていたので、横断を始めることはないと判断してそのまま速度を落とさずに進行した。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 62,
+      "question": "二輪車に乗る時は、転倒することも考えて、体の露出がなるべく少なくなるような服装をしたほうがよい。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 63,
+      "question": "自家用の大型自動車は、1年ごとに定期点検を実施し、必要な整備を受けなければならない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 64,
+      "question": "この標識は、二輪車を除く他の車が矢印の示す方向以外の方向へ進行することを禁止している。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 65,
+      "question": "遠心力の大きさは、カーブの半径が小さくなる程大きくなり、速度の二乗に比例して大きくなる。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 66,
+      "question": "横断歩道や自転車横断帯に近づいた時に横断する人や自転車がいないことが明らかな場合は、その手前30m以内の場所でも追い越してもよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 67,
+      "question": "この標識のある場所では、対向車が少ない時でも警音器を鳴らさなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 68,
+      "question": "この信号機の青の矢印は、信号が赤であっても矢印に従って右折できるが左側部分に車両通行帯（交差点付近の右左折のための車両通行帯を含む）が3つ以上ある交差点では原動機付自転車は右折することはできない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 69,
+      "question": "二輪車を選ぶ時は、またがってみて片足が地面につき車体を支えられるかどうか、8の字型に押して歩くことが完全にできるかどうかを確めておくことが大切である。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 70,
+      "question": "この警察官の手信号の意味はどちらも同じである。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 71,
+      "question": "一方通行の道路において、道路外に出るために右折しようとする時は、あらかじめできるだけ道路の右端によって徐行しなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 72,
+      "question": "自家用の普通自動車は、2年ごとに定期点検を実施し、必要な整備をしなければならない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 73,
+      "question": "雨の日でも急発進、急ハンドル、急ブレーキをかけなければ横滑りはしないので、速度を落とした運転を心がける必要はない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 74,
+      "question": "この標識のある交差点を右折する原動機付自転車は、二段階の方法により右折しなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 75,
+      "question": "路側帯を通行している歩行者の側方を通行する時は、その歩行者との間に安全な間隔をあけたり、徐行したりする必要はない。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 76,
+      "question": "制動距離とは、空走距離と停止距離を合わせたものである。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 77,
+      "question": "自動車を運転する前には、有効な自動車検査証、自動車損害賠償責任保険証明書または責任共済証明書を備えているか確かめることが大切である。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 78,
+      "question": "この二つの標識のあるところでは、車両はこの先進行してはならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 79,
+      "question": "高速道路を原動機付自転車で通行することは禁止されているが、ミニカーは通行することができる。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 80,
+      "question": "中央分離帯のある高速自動車国道の本線車道では、大型乗用自動車、中型乗用自動車の法定最高速度は、時速80キロメートルである。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 81,
+      "question": "二輪車のマフラーを取り外すと騒音は高くなるが馬力があるのでマフラーを外してもよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 82,
+      "question": "交差点を左折する時には、あらかじめできるだけ道路の左端に寄り、交差点の側端に沿って進行すれば徐行しなくてもよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 83,
+      "question": "この標示は、駐車や停車することはできないが通行することはできる。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 84,
+      "question": "原動機付自転車の荷台に積むことのできる荷物の積載制限は、積載装置の後ろに0.3mを加えた長さまでである。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 85,
+      "question": "大型特殊免許を有する者は、普通自動車を運転することができる。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 86,
+      "question": "明るさが急に変わると視力が一時的に低下し、車が減速してしまうので、トンネルに入る前やトンネルから出るときはやや加速するとよい。",
+      "correct_answer": false
+    },
+    {
+      "question_id": 87,
+      "question": "この標識と標示のあるところでは駐車することはできないが停車することはできる。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 88,
+      "question": "原動機付自転車が交差点で右折するときは、原則として自動車と同じ方法で右折をしなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 89,
+      "question": "普通貨物自動車を運転しようとする時は、一日一回運転する前に日常点検を必ず行わなければならない。",
+      "correct_answer": true
+    },
+    {
+      "question_id": 90,
+      "question": "上り坂の頂上付近では、エンスト防止のため加速して一気に通過するのがよい。",
+      "correct_answer": false
     }
   ]
 }
